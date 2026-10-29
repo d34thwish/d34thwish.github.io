@@ -64,22 +64,41 @@ h3 { font-size: .72rem; text-transform: uppercase; letter-spacing: 2px; color: v
 footer { margin-top: 4rem; padding: 2.5rem 1rem; border-top: 1px solid var(--border);
   color: var(--muted); font-size: .82rem; text-align: center; }
 .footer-note { margin-top: .5rem; font-size: .75rem; opacity: .6; }
+.tabs { position: sticky; top: 0; z-index: 10; display: flex; gap: .5rem; padding: .8rem 1.5rem;
+  background: rgba(9,12,16,.85); backdrop-filter: blur(12px); border-bottom: 1px solid var(--border); }
+.tab { color: var(--muted); text-decoration: none; padding: .5rem 1.2rem; border-radius: 999px;
+  font-weight: 600; font-size: .9rem; transition: all .2s; }
+.tab:hover, .tab.active { color: var(--text); background: rgba(244,194,107,.12); }
+.hero-card { grid-column: 1 / -1; background: linear-gradient(135deg, rgba(244,194,107,.08), rgba(66,217,200,.05));
+  border: 1px solid var(--border); border-left: 4px solid var(--accent); border-radius: 24px;
+  padding: 2rem; margin-bottom: 1rem; box-shadow: 0 8px 32px rgba(0,0,0,.4); }
+.hero-kicker { display: flex; align-items: center; gap: .8rem; margin-bottom: 1rem; }
+.hero-title { font-family: 'Cormorant Garamond', Georgia, serif; font-size: 2rem; margin: 0 0 .8rem;
+  line-height: 1.1; font-weight: 700; }
+.hero-title a { color: var(--text); text-decoration: none; }
+.hero-title a:hover { color: var(--accent2); }
+.hero-sum { color: var(--muted); font-size: 1rem; line-height: 1.6; margin-bottom: 1rem; }
+.hero-cta { color: var(--accent); font-weight: 600; text-decoration: none; }
+.hero-cta:hover { color: var(--accent2); }
 @keyframes fadeIn { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: none; } }
-.card, .subject-group li { animation: fadeIn .4s ease both; }
+.card, .subject-group li, .hero-card { animation: fadeIn .4s ease both; }
 @media (max-width: 600px) { body { padding: 0 .9rem 3rem; } header h1 { font-size: 1.8rem; } }
 </style>
 </head>
 <body>
+<nav class="tabs">
+  <a href="#peru" class="tab active">🇵🇪 Perú</a>
+  <a href="#world" class="tab">🌍 Mundo</a>
+</nav>
 <header>
-  <h1>📰 Hermes News Briefing</h1>
+  <h1>📰 Hermes News</h1>
   <div class="meta">Assembled 2026-10-28T19:24:16-05:00</div>
 </header>
 
-<div class="region">
+<div class="region" id="peru">
   <h2>🇵🇪 Perú / Nacional</h2>
-  <h3 class="tier1">★ Lo más importante</h3>
-  <div class="card-grid"><div class="card"><a href="https://rpp.pe/mundo/estados-unidos/donald-trump-evita-comentar-autoproclamacion-de-bolsonaro-aunque-considera-extranos-los-comicios-en-brasil-noticia-1714920">Donald Trump evita comentar autoproclamación de Bolsonaro aunque considera "extraños" los comicios en Brasil</a><div class="sum">El senador brasileño se refugia en Miami y denunció un fraude electoral; sin embargo, el mandatario estadounidense evitó pronunciarse al respecto.</div><div class="src"><span class="badge rpp">RPP Noticias</span> <span class="pub">2026-10-28T17:29:49-05:00</span></div></div>
-<div class="card"><a href="https://www.bbc.co.uk/news/articles/cq62yg6rggj0o?at_medium=RSS&at_campaign=rss">Lula's comeback in Brazil dents Trump's ambitions for Latin America</a><div class="sum">The Trump-Lula relationship may have thawed, but several issues could reignite tensions between the two leaders.</div><div class="src"><span class="badge bbc">BBC World</span> <span class="pub">2026-10-27T01:46:38+00:00</span></div></div>
+  <article class="hero-card"><div class="hero-kicker"><span class="badge rpp">RPP Noticias</span><span class="pub">2026-10-28T17:29:49-05:00</span></div><h3 class="hero-title"><a href="https://rpp.pe/mundo/estados-unidos/donald-trump-evita-comentar-autoproclamacion-de-bolsonaro-aunque-considera-extranos-los-comicios-en-brasil-noticia-1714920">Donald Trump evita comentar autoproclamación de Bolsonaro aunque considera "extraños" los comicios en Brasil</a></h3><div class="hero-sum">El senador brasileño se refugia en Miami y denunció un fraude electoral; sin embargo, el mandatario estadounidense evitó pronunciarse al respecto.</div><a class="hero-cta" href="https://rpp.pe/mundo/estados-unidos/donald-trump-evita-comentar-autoproclamacion-de-bolsonaro-aunque-considera-extranos-los-comicios-en-brasil-noticia-1714920">Leer articulo →</a></article>
+  <div class="card-grid"><div class="card"><a href="https://www.bbc.co.uk/news/articles/cq62yg6rggj0o?at_medium=RSS&at_campaign=rss">Lula's comeback in Brazil dents Trump's ambitions for Latin America</a><div class="sum">The Trump-Lula relationship may have thawed, but several issues could reignite tensions between the two leaders.</div><div class="src"><span class="badge bbc">BBC World</span> <span class="pub">2026-10-27T01:46:38+00:00</span></div></div>
 </div>
   <h3 class="tier2">Otros temas</h3>
   <div class="subject-group"><h4>environment</h4><ul><li><a href="https://rpp.pe/peru/actualidad/senamhi-pronostico-del-clima-hoy-miercoles-28-de-octubre-2026-noticia-1714786">SENAMHI: Pronóstico del clima hoy miércoles 28 de octubre 2026</a><div class="sum">Consulta el pronóstico del clima hoy en Lima y ciudades del Perú: temperatura actual, sensación térmica, radiación UV, probabilidad de lluvia y reporte oficial del Senamhi actualiz</div><div class="src"><span class="badge rpp">RPP Noticias</span> <span class="pub">2026-10-28T04:00:45-05:00</span></div></li>
@@ -144,11 +163,10 @@ footer { margin-top: 4rem; padding: 2.5rem 1rem; border-top: 1px solid var(--bor
 </ul></div>
 </div>
 
-<div class="region">
+<div class="region" id="world">
   <h2>🌍 Internacional</h2>
-  <h3 class="tier1">★ Lo más importante</h3>
-  <div class="card-grid"><div class="card"><a href="https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss">Flávio Bolsonaro denies fleeing Brazil after landing in Miami</a><div class="sum">The defeated Brazilian candidate claims to be the victim of a coup d’état and political persecution, recycling unsubstantiated allegations of “electoral fraud”.</div><div class="src"><span class="badge bbc">BBC World</span> <span class="pub">2026-10-28T23:21:48+00:00</span></div></div>
-<div class="card"><a href="https://www.bbc.co.uk/news/videos/c893zeknlvnno?at_medium=RSS&at_campaign=rss">Israel's election result is messy - here's why</a><div class="sum">Despite having the highest voter turnout in nearly three decades, Israel's elections have had no clear winner. What does this mean for the country, asks the BBC's Yolande Knell.</div><div class="src"><span class="badge bbc">BBC World</span> <span class="pub">2026-10-28T14:26:24+00:00</span></div></div>
+  <article class="hero-card"><div class="hero-kicker"><span class="badge bbc">BBC World</span><span class="pub">2026-10-28T23:21:48+00:00</span></div><h3 class="hero-title"><a href="https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss">Flávio Bolsonaro denies fleeing Brazil after landing in Miami</a></h3><div class="hero-sum">The defeated Brazilian candidate claims to be the victim of a coup d’état and political persecution, recycling unsubstantiated allegations of “electoral fraud”.</div><a class="hero-cta" href="https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss">Leer articulo →</a></article>
+  <div class="card-grid"><div class="card"><a href="https://www.bbc.co.uk/news/videos/c893zeknlvnno?at_medium=RSS&at_campaign=rss">Israel's election result is messy - here's why</a><div class="sum">Despite having the highest voter turnout in nearly three decades, Israel's elections have had no clear winner. What does this mean for the country, asks the BBC's Yolande Knell.</div><div class="src"><span class="badge bbc">BBC World</span> <span class="pub">2026-10-28T14:26:24+00:00</span></div></div>
 <div class="card"><a href="https://www.bbc.co.uk/news/videos/c687z5ne1w4ro?at_medium=RSS&at_campaign=rss">What we know about Ukraine-Russia truce in Oleshky, brokered by Melania Trump</a><div class="sum">The Russian-occupied city of Oleshky has had no electricity, gas or water for three years, as residents reported having to eat weeds to survive.</div><div class="src"><span class="badge bbc">BBC World</span> <span class="pub">2026-10-27T20:42:38+00:00</span></div></div>
 <div class="card"><a href="https://www.aljazeera.com/news/liveblog/2026/10/29/iran-war-live-tehran-presses-7-day-hormuz-plan-trump-denies-peace-talks?traffic_source=rss">Iran war live: Tehran presses 7-day Hormuz plan; Trump denies peace talks</a><div class="sum">Araghchi says Iran is in close contact with mediators on ideas to implement its seven-day plan to reopen Hormuz strait.</div><div class="src"><span class="badge alj">Al Jazeera</span> <span class="pub">2026-10-29T00:00:00+00:00</span></div></div>
 <div class="card"><a href="https://www.aljazeera.com/economy/2026/10/28/fed-leaves-interest-rates-unchanged-despite-inflation-in-the-us?traffic_source=rss">Fed leaves interest rates unchanged despite inflation in the US</a><div class="sum">Rates will remain 3.75-4 percent even as inflation continues to rise.</div><div class="src"><span class="badge alj">Al Jazeera</span> <span class="pub">2026-10-28T19:05:44+00:00</span></div></div>
