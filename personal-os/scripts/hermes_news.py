@@ -63,7 +63,11 @@ def retry_after(resp):
 
 def check_response(resp):
  if resp.ok: return
- status=resp.status_code; permanent=status in {400,401,403,404,422}; raise ProviderError(f"HTTP {status}: {resp.text[:300]}",status,retry_after(resp),permanent)
+ status=resp.status_code
+ permanent=status in {400,401,403,404,422}
+ delay=retry_after(resp)
+ if status==429 and delay is None and "quota" in resp.text.lower(): permanent=True
+ raise ProviderError(f"HTTP {status}: {resp.text[:300]}",status,delay,permanent)
 
 def call_provider(provider,prompt,session):
  name=provider["name"]; model=provider["model"]; timeout=provider.get("timeout_seconds",60)
@@ -88,7 +92,15 @@ def call_provider(provider,prompt,session):
 
 def validate_ai(text,payload):
  if not text: raise PipelineError("AI returned empty content")
- data=json.loads(text); errors=list(Draft202012Validator(AI_SCHEMA).iter_errors(data))
+ # Structured-output providers may return an already-decoded JSON object.
+ # OpenAI-compatible providers normally return a JSON string. Accept both.
+ if isinstance(text, dict):
+  data=text
+ elif isinstance(text, (str, bytes, bytearray)):
+  data=json.loads(text)
+ else:
+  raise PipelineError(f"AI returned unsupported type: {type(text).__name__}")
+ errors=list(Draft202012Validator(AI_SCHEMA).iter_errors(data))
  if errors: raise PipelineError("Invalid AI schema: "+errors[0].message)
  ids=[x["id"] for x in data["articles"]]; expected={x["id"] for x in payload}
  if len(ids)!=len(payload) or set(ids)!=expected: raise PipelineError("AI response IDs do not exactly match request")
