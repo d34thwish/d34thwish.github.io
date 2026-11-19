@@ -71,19 +71,19 @@ def call_provider(provider,prompt,session):
   key=os.getenv("GEMINI_API_KEY");
   if not key: raise ProviderError("secret not configured",permanent=True)
   url=f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent?key={key}"
-  body={"contents":[{"parts":[{"text":prompt}]}],"generationConfig":{"temperature":0,"responseMimeType":"application/json"}}
+  body={"contents":[{"parts":[{"text":prompt}]}],"generationConfig":{"temperature":0,"responseMimeType":"application/json","responseJsonSchema":AI_SCHEMA,"maxOutputTokens":4096}}
   r=session.post(url,json=body,timeout=timeout); check_response(r); return r.json()["candidates"][0]["content"]["parts"][0]["text"]
  if name=="cloudflare":
   aid=os.getenv("CLOUDFLARE_ACCOUNT_ID"); token=os.getenv("CLOUDFLARE_API_TOKEN")
   if not aid or not token: raise ProviderError("secrets not configured",permanent=True)
   url=f"https://api.cloudflare.com/client/v4/accounts/{aid}/ai/run/{model}"
-  r=session.post(url,headers={"Authorization":f"Bearer {token}"},json={"messages":[{"role":"user","content":prompt}],"temperature":0},timeout=timeout); check_response(r); data=r.json(); result=data.get("result",{}); return result.get("response") or result.get("result") or ""
+  r=session.post(url,headers={"Authorization":f"Bearer {token}"},json={"messages":[{"role":"user","content":prompt}],"temperature":0,"max_tokens":4096,"response_format":{"type":"json_schema","json_schema":AI_SCHEMA}},timeout=timeout); check_response(r); data=r.json(); result=data.get("result",{}); return result.get("response") or result.get("result") or ""
  keys={"groq":"GROQ_API_KEY","openrouter":"OPENROUTER_API_KEY"}; key=os.getenv(keys[name])
  if not key: raise ProviderError("secret not configured",permanent=True)
  url={"groq":"https://api.groq.com/openai/v1/chat/completions","openrouter":"https://openrouter.ai/api/v1/chat/completions"}[name]
  headers={"Authorization":f"Bearer {key}","Content-Type":"application/json"}
  if name=="openrouter": headers.update({"HTTP-Referer":"https://d34thwish.github.io/personal-os/news.html","X-Title":"Hermes News"})
- body={"model":model,"temperature":0,"messages":[{"role":"user","content":prompt}],"response_format":{"type":"json_object"}}
+ body={"model":model,"temperature":0,"max_tokens":4096,"messages":[{"role":"user","content":prompt}],"response_format":{"type":"json_schema","json_schema":{"name":"hermes_review","strict":True,"schema":AI_SCHEMA}}}
  r=session.post(url,headers=headers,json=body,timeout=timeout); check_response(r); return r.json()["choices"][0]["message"]["content"]
 
 def validate_ai(text,payload):
