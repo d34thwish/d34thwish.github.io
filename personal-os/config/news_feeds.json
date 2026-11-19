@@ -1,18 +1,54 @@
 {
   "feeds": [
-    {"name":"RPP Noticias","url":"https://rpp.pe/feed","region":"peru"},
-    {"name":"BBC Mundo","url":"https://feeds.bbci.co.uk/mundo/rss.xml","region":"world"},
-    {"name":"Al Jazeera","url":"https://www.aljazeera.com/xml/rss/all.xml","region":"world"}
+    {
+      "name": "RPP Noticias",
+      "url": "https://rpp.pe/feed",
+      "region": "peru"
+    },
+    {
+      "name": "BBC Mundo",
+      "url": "https://feeds.bbci.co.uk/mundo/rss.xml",
+      "region": "world"
+    },
+    {
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "region": "world"
+    }
   ],
   "max_items_per_feed": 40,
   "retention_days": 30,
   "ai": {
-    "max_batch_size": 5,
+    "max_batch_size": 3,
     "providers": [
-      {"name":"gemini","model":"gemini-2.5-flash-lite","enabled":true,"timeout_seconds":60,"max_transient_retries":1},
-      {"name":"cloudflare","model":"@cf/meta/llama-3.1-8b-instruct","enabled":true,"timeout_seconds":60,"max_transient_retries":1},
-      {"name":"groq","model":"openai/gpt-oss-20b","enabled":true,"timeout_seconds":60,"max_transient_retries":1},
-      {"name":"openrouter","model":"openrouter/free","enabled":true,"timeout_seconds":90,"max_transient_retries":1}
+      {
+        "name": "gemini",
+        "model": "gemini-3.5-flash-lite",
+        "enabled": true,
+        "timeout_seconds": 60,
+        "max_transient_retries": 1
+      },
+      {
+        "name": "cloudflare",
+        "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+        "enabled": true,
+        "timeout_seconds": 60,
+        "max_transient_retries": 1
+      },
+      {
+        "name": "groq",
+        "model": "openai/gpt-oss-20b",
+        "enabled": true,
+        "timeout_seconds": 60,
+        "max_transient_retries": 1
+      },
+      {
+        "name": "openrouter",
+        "model": "openrouter/free",
+        "enabled": true,
+        "timeout_seconds": 90,
+        "max_transient_retries": 1
+      }
     ]
   }
 }
