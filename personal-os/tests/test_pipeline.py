@@ -15,6 +15,11 @@ class Tests(unittest.TestCase):
  def test_duplicate_rejected(self):
   a={'id':'x','title':'t','url':'https://x.test/a','source':'s','published_at':'2026-11-19T12:00:00Z','category':'other','region':'world','priority':1,'summary':'s','why_it_matters':''}
   with self.assertRaises(PipelineError): validate_dataset({'schema_version':1,'articles':[a,a]})
+ def test_accepts_decoded_dict(self):
+  got=validate_ai(REVIEW,[ARTICLE])
+  self.assertEqual(got[0]["id"],"abc")
+ def test_rejects_unsupported_response_type(self):
+  with self.assertRaises(PipelineError): validate_ai([REVIEW],[ARTICLE])
  def test_schema_rejects_missing_category(self):
   bad={"articles":[{"id":"abc","region":"world","priority":1,"summary":"s","why_it_matters":"w","relevant":True}]}
   with self.assertRaises(PipelineError): validate_ai(json.dumps(bad),[ARTICLE])
