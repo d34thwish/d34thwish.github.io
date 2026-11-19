@@ -20,7 +20,7 @@
   "retention_days": 30,
   "ai": {
     "provider": "groq",
-    "model": "llama-3.3-70b-versatile",
+    "model": "openai/gpt-oss-120b",
     "max_batch_size": 20
   }
 }
