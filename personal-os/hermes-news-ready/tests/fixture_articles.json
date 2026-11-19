@@ -1,0 +1,11 @@
+[
+  {
+    "id": "fixture00000000000001",
+    "title": "Artículo de prueba",
+    "url": "https://example.com/test",
+    "source": "Fixture",
+    "published_at": "2026-11-19T12:00:00Z",
+    "raw_summary": "Resumen de prueba",
+    "region_hint": "peru"
+  }
+]
