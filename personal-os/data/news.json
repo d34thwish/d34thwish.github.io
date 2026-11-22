@@ -25,6 +25,18 @@
       "why_it_matters": "El ataque contra infraestructura de ayuda agrava el costo civil y reduce las señales de desescalada."
     },
     {
+      "category": "alert",
+      "id": "ddbae4aaa1e26f4add36",
+      "priority": 90,
+      "published_at": "2026-11-22T00:42:58Z",
+      "region": "peru",
+      "source": "RPP Noticias",
+      "summary": "Reporte en vivo del Instituto Geofísico del Perú sobre el último sismo ocurrido en el país.",
+      "title": "Temblor en Perú, hoy 22 de noviembre: magnitud y epicentro del sismo según IGP",
+      "url": "https://rpp.pe/lima/desastres-naturales/temblor-en-peru-hoy-21-de-noviembre-magnitud-y-epicentro-del-sismo-segun-igp-live-3723",
+      "why_it_matters": "Mantiene informada a la población sobre eventos sísmicos y medidas de prevención."
+    },
+    {
       "category": "services",
       "id": "645b9bdcafd633bae15b",
       "priority": 90,
@@ -71,6 +83,30 @@
       "title": "Senamhi advierte aumento de lluvias intensas y cambios de temperatura",
       "url": "https://rpp.pe/peru/actualidad/senamhi-lluvias-intensas-se-incrementaran-en-el-norte-del-pais-noticia-1715605",
       "why_it_matters": "La combinación de lluvia y drenaje vulnerable eleva el riesgo de interrupciones y daños."
+    },
+    {
+      "category": "environment",
+      "id": "e27f1466f51072c231db",
+      "priority": 85,
+      "published_at": "2026-11-22T15:44:16Z",
+      "region": "peru",
+      "source": "RPP Noticias",
+      "summary": "El alcalde de Aguas Verdes criticó la falta de apoyo gubernamental tras el impacto del Fenómeno El Niño y el desborde del río Zarumilla.",
+      "title": "Alcalde de Aguas Verdes cuestiona falta de apoyo del Gobierno central tras lluvias: \"Vino la presidenta y ninguna calamina nos entregó\"",
+      "url": "https://rpp.pe/peru/tumbes/alcalde-de-aguas-verdes-cuestiona-falta-de-apoyo-del-gobierno-central-tras-lluvias-vino-la-presidenta-y-ninguna-calamina-nos-entrego-noticia-1719135",
+      "why_it_matters": "Evidencia los estragos climáticos en el norte peruano y la escasez de recursos de respuesta rápida."
+    },
+    {
+      "category": "services",
+      "id": "3408f96eb3c44abc7121",
+      "priority": 85,
+      "published_at": "2026-11-22T14:00:38Z",
+      "region": "peru",
+      "source": "RPP Noticias",
+      "summary": "Sedapal programa un corte de agua en diversos distritos de Lima para el 22 de noviembre.",
+      "title": "Corte de agua en Lima hoy 22 de noviembre: Distritos y horarios afectados",
+      "url": "https://rpp.pe/lima/obras/corte-de-agua-en-lima-hoy-22-de-noviembre-distritos-y-horarios-afectados-noticia-1719120",
+      "why_it_matters": "Afecta directamente el abastecimiento diario de los ciudadanos en los distritos involucrados."
     },
     {
       "category": "environment",
@@ -191,6 +227,18 @@
       "title": "Gobierno anuncia reclasificación de internos y traslados a Challapalca",
       "url": "https://rpp.pe/peru/actualidad/keiko-fujimori-anuncia-reclasificacion-de-internos-y-traslado-de-los-mas-peligrosos-a-challapalca-noticia-1715637",
       "why_it_matters": "Anticipa cambios en política penitenciaria y abre preguntas sobre seguridad, capacidad y supervisión."
+    },
+    {
+      "category": "security",
+      "id": "8362dcb77d59468c83c8",
+      "priority": 80,
+      "published_at": "2026-11-22T14:48:50Z",
+      "region": "world",
+      "source": "Al Jazeera",
+      "summary": "Rusia mata a siete personas en Ucrania, Zelenskyy pide a EE. UU. que libere misiles Patriot.",
+      "title": "Zelenskyy urges US to release Patriot missiles as Russia kills 7 in Ukraine",
+      "url": "https://www.aljazeera.com/news/2026/11/22/zelenskyy-urges-us-to-release-patriot-missiles?traffic_source=rss",
+      "why_it_matters": "El conflicto entre Rusia y Ucrania sigue escalando, con consecuencias globales."
     },
     {
       "category": "security",
@@ -335,6 +383,42 @@
       "title": "MEF y Congreso discrepan sobre puntos clave del Presupuesto 2027",
       "url": "https://rpp.pe/economia/economia/presupuesto-2027-canon-minero-freno-a-mas-universidades-y-candados-al-gasto-los-desacuerdos-entre-el-mef-y-congreso-noticia-1715599",
       "why_it_matters": ""
+    },
+    {
+      "category": "economy",
+      "id": "ddefbd7a8426e400a71c",
+      "priority": 75,
+      "published_at": "2026-11-22T17:39:21Z",
+      "region": "peru",
+      "source": "RPP Noticias",
+      "summary": "Mineros artesanales anuncian movilización nacional para el 23 de noviembre exigiendo la ampliación del Reinfo ante el vencimiento del plazo de formalización.",
+      "title": "Mineros artesanales anuncian movilización nacional este 23 de noviembre para exigir ampliación del Reinfo",
+      "url": "https://rpp.pe/peru/actualidad/mineros-artesanales-anuncian-movilizacion-nacional-este-23-de-noviembre-para-exigir-ampliacion-del-reinfo-noticia-1719142",
+      "why_it_matters": "Podría generar bloqueos y protestas a nivel nacional, afectando el orden público y la economía sectorial."
+    },
+    {
+      "category": "politics",
+      "id": "b51491767ffdcbcda8f1",
+      "priority": 75,
+      "published_at": "2026-11-22T15:37:12Z",
+      "region": "peru",
+      "source": "RPP Noticias",
+      "summary": "Mineros artesanales de Puno anunciaron una protesta en Juliaca para exigir la ampliación de la formalización minera y cambios ministeriales.",
+      "title": "Puno: mineros de La Rinconada y otras zonas anunciaron movilización para este lunes 23 de noviembre en Juliaca",
+      "url": "https://rpp.pe/peru/puno/puno-mineros-de-la-rinconada-y-otras-zonas-anunciaron-movilizacion-para-este-lunes-23-de-noviembre-en-juliaca-noticia-1719134",
+      "why_it_matters": "Podría generar bloqueos y conflictos sociales de gran magnitud en el sur del país."
+    },
+    {
+      "category": "alert",
+      "id": "c9652cb9a792fdfcc5c2",
+      "priority": 75,
+      "published_at": "2026-11-22T13:58:05Z",
+      "region": "peru",
+      "source": "RPP Noticias",
+      "summary": "Un incendio consume una vivienda en el Rímac, cerca de la Plaza de Acho, con 14 unidades de bomberos trabajando en el control de las llamas.",
+      "title": "Rímac: incendio consume vivienda de material noble cerca de la Plaza de Acho",
+      "url": "https://rpp.pe/lima/actualidad/rimac-incendio-consume-vivienda-de-material-noble-cerca-a-la-plaza-de-acho-noticia-1719117",
+      "why_it_matters": "Es crucial para alertar sobre emergencias urbanas en curso y posibles restricciones de tránsito en la zona."
     },
     {
       "category": "security",
@@ -565,6 +649,30 @@
       "why_it_matters": ""
     },
     {
+      "category": "politics",
+      "id": "1eacb8600f61d2302a18",
+      "priority": 70,
+      "published_at": "2026-11-22T15:08:28Z",
+      "region": "peru",
+      "source": "RPP Noticias",
+      "summary": "El presidente del INPE, Abraham Lescano, indicó que la construcción de nuevos penales estará a cargo del Ministerio de Defensa.",
+      "title": "Presidente del INPE sobre construcción de nuevos penales: \"Va a estar a cargo del Ministerio de Defensa\"",
+      "url": "https://rpp.pe/peru/actualidad/presidente-del-inpe-sobre-construccion-de-nuevos-penales-va-a-estar-a-cargo-del-ministerio-de-defensa-noticia-1719129",
+      "why_it_matters": "Involucra una estrategia interinstitucional para la infraestructura penitenciaria nacional con apoyo del Ejército y Estados Unidos."
+    },
+    {
+      "category": "security",
+      "id": "414173bc1a43abbdceda",
+      "priority": 70,
+      "published_at": "2026-11-22T14:20:41Z",
+      "region": "world",
+      "source": "Al Jazeera",
+      "summary": "Irán presentó un lanzador de misiles doble y una nueva 'ciudad de misiles'.",
+      "title": "Iran unveils dual-missile launcher, new ‘missile city’: What to know",
+      "url": "https://www.aljazeera.com/news/2026/11/22/iran-unveils-dual-missile-launcher-new-missile-city-what-to-know?traffic_source=rss",
+      "why_it_matters": "La demostración de capacidades militares puede tener implicaciones para la seguridad regional."
+    },
+    {
       "category": "services",
       "id": "31aaf794addc2276e5f6",
       "priority": 70,
@@ -769,6 +877,18 @@
       "why_it_matters": ""
     },
     {
+      "category": "environment",
+      "id": "469ad66dfb44ac81cca7",
+      "priority": 65,
+      "published_at": "2026-11-22T16:33:26Z",
+      "region": "world",
+      "source": "Al Jazeera",
+      "summary": "Las negociaciones climáticas de la COP31 concluyeron sin un acuerdo definitivo.",
+      "title": "‘Disappointing’: Delegates react after COP31 climate talks end without deal",
+      "url": "https://www.aljazeera.com/news/2026/11/22/countries-react-after-cop31-climate-talks-end-in-collapse?traffic_source=rss",
+      "why_it_matters": "Afecta los esfuerzos globales para combatir el cambio climático debido a la oposición sobre los combustibles fósiles."
+    },
+    {
       "category": "politics",
       "id": "0c78f088dfb7fcb9d720",
       "priority": 65,
@@ -815,6 +935,54 @@
       "title": "Alerta nuclear falsa tras hackeo de una aplicación en Ucrania",
       "url": "https://www.bbc.co.uk/news/articles/cwx28mngxz8do",
       "why_it_matters": ""
+    },
+    {
+      "category": "security",
+      "id": "95fb2fe1971e2a149f47",
+      "priority": 60,
+      "published_at": "2026-11-22T16:50:48Z",
+      "region": "world",
+      "source": "Al Jazeera",
+      "summary": "Colonos israelíes atacaron varias ciudades y pueblos palestinos en la Cisjordania ocupada.",
+      "title": "Israeli settlers attack multiple Palestinian villages as pogroms surge",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/israeli-settlers-attack-multiple-palestinian-villages-as-pogroms-surge?traffic_source=rss",
+      "why_it_matters": "Incrementa la tensión y la violencia en el conflicto de Medio Oriente."
+    },
+    {
+      "category": "security",
+      "id": "78b15d0226616e6b0078",
+      "priority": 60,
+      "published_at": "2026-11-22T14:33:26Z",
+      "region": "world",
+      "source": "Al Jazeera",
+      "summary": "El líder del cartel mexicano El Chapo Isidro fue capturado en Sinaloa.",
+      "title": "How El Chapo Isidro, alleged Mexican cartel leader, was captured",
+      "url": "https://www.aljazeera.com/news/2026/11/22/how-el-chapo-isidro-alleged-mexican-cartel-leader-was-captured?traffic_source=rss",
+      "why_it_matters": "La captura puede afectar la dinámica del crimen organizado en la región."
+    },
+    {
+      "category": "security",
+      "id": "27c6e08efeabeca2bba2",
+      "priority": 60,
+      "published_at": "2026-11-22T14:08:28Z",
+      "region": "world",
+      "source": "Al Jazeera",
+      "summary": "Policías desmantelan una red criminal de pederastia en internet.",
+      "title": "Uncovering a Criminal Network on the Early Internet | True Crime Reports",
+      "url": "https://www.aljazeera.com/video/true-crime-reports/2026/11/22/uncovering-a-criminal-network-on-the-early-internet-true-crime-reports?traffic_source=rss",
+      "why_it_matters": "La seguridad en línea es crucial para proteger a los menores."
+    },
+    {
+      "category": "environment",
+      "id": "654a7bc21c36f83f1339",
+      "priority": 60,
+      "published_at": "2026-11-22T09:00:45Z",
+      "region": "peru",
+      "source": "RPP Noticias",
+      "summary": "SENAMHI presenta el pronóstico oficial del clima y temperatura para Lima y diversas ciudades del Perú.",
+      "title": "SENAMHI: Pronóstico del clima hoy domingo 22 de noviembre 2026",
+      "url": "https://rpp.pe/peru/actualidad/senamhi-pronostico-del-clima-hoy-domingo-22-de-noviembre-2026-noticia-1719107",
+      "why_it_matters": "Es útil para planificar actividades diarias y estar informado sobre las condiciones meteorológicas y radiación UV."
     },
     {
       "category": "security",
@@ -1213,6 +1381,54 @@
       "why_it_matters": ""
     },
     {
+      "category": "security",
+      "id": "07134650069794a1b23d",
+      "priority": 50,
+      "published_at": "2026-11-22T17:41:51Z",
+      "region": "world",
+      "source": "RPP Noticias",
+      "summary": "Un ataque ruso con drones a un edificio residencial en la región de Kiev deja un muerto, heridos y desaparecidos.",
+      "title": "Un muerto, tres heridos y varios desaparecidos en ataque ruso a edificio en región de Kiev",
+      "url": "https://rpp.pe/mundo/rusia/un-muerto-tres-heridos-y-varios-desaparecidos-en-ataque-ruso-a-edificio-en-region-de-kiev-noticia-1719152",
+      "why_it_matters": "Muestra la continua escalada del conflicto en Ucrania y los daños a la población civil."
+    },
+    {
+      "category": "economy",
+      "id": "825c61a33c258ecdd151",
+      "priority": 50,
+      "published_at": "2026-11-22T16:38:27Z",
+      "region": "peru",
+      "source": "RPP Noticias",
+      "summary": "Comerciantes de Mesa Redonda reportan alta demanda de sombrillas debido a las elevadas temperaturas y la humedad en Lima.",
+      "title": "Venta de sombrillas se disparan en Mesa Redonda: comerciantes llegan a vender hasta mil unidades al día",
+      "url": "https://rpp.pe/lima/actualidad/venta-de-sombrillas-se-disparan-en-mesa-redonda-comerciantes-llegan-a-vender-hasta-mil-unidades-al-dia-noticia-1719143",
+      "why_it_matters": "Refleja el impacto del clima en el comercio local y la economía informal."
+    },
+    {
+      "category": "other",
+      "id": "a698b680b0cdc60e20f5",
+      "priority": 50,
+      "published_at": "2026-11-22T14:51:39Z",
+      "region": "world",
+      "source": "Al Jazeera",
+      "summary": "El uso excesivo de antibióticos podría generar superbacilos, matando a ocho millones de personas al año para 2050.",
+      "title": "The Drugs Don’t Work",
+      "url": "https://www.aljazeera.com/video/featured-documentaries/2026/11/22/the-drugs-dont-work?traffic_source=rss",
+      "why_it_matters": "La resistencia a los antibióticos es un problema global que requiere atención inmediata."
+    },
+    {
+      "category": "security",
+      "id": "b2801e9be15f361001be",
+      "priority": 50,
+      "published_at": "2026-11-22T14:30:27Z",
+      "region": "world",
+      "source": "Al Jazeera",
+      "summary": "Colonos israelíes incendiaron vehículos palestinos en Jerusalén.",
+      "title": "Jerusalem Daily: Israeli settlers set Palestinian vehicles ablaze",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/jerusalem-daily-israeli-settlers-set-palestinian-vehicles-ablaze?traffic_source=rss",
+      "why_it_matters": "El incidente aumenta las tensiones en la región."
+    },
+    {
       "category": "alert",
       "id": "99819f74a014e8b997ea",
       "priority": 50,
@@ -1537,6 +1753,18 @@
       "why_it_matters": "Muestra las tensiones sociales actuales en Europa que afectan a la comunidad de la región en el extranjero."
     },
     {
+      "category": "other",
+      "id": "3271dd93d7f9e3ce3eb4",
+      "priority": 45,
+      "published_at": "2026-11-22T15:45:38Z",
+      "region": "peru",
+      "source": "RPP Noticias",
+      "summary": "Universitario y Sport Huancayo se enfrentan en la última fecha del Torneo Clausura 2026 con definiciones importantes en la tabla.",
+      "title": "Universitario vs Sport Huancayo EN VIVO: ¿a qué hora juegan y dónde ver HOY la última fecha del Torneo Clausura 2026?",
+      "url": "https://rpp.pe/futbol/descentralizado/universitario-vs-sport-huancayo-en-vivo-a-que-hora-juegan-y-donde-ver-canal-tv-fecha-17-clausura-2026-via-l1-max-partidos-de-hoy-noticia-1718810",
+      "why_it_matters": "Atrae el interés de los aficionados al fútbol peruano y el desenlace del campeonato nacional."
+    },
+    {
       "category": "economy",
       "id": "73f7cc09bff060765b6e",
       "priority": 45,
@@ -1607,6 +1835,102 @@
       "title": "Quiénes son los 7 fundadores de Anthropic que están a punto de convertirse en multimillonarios",
       "url": "https://www.bbc.com/mundo/articles/cm98x39221yro?at_medium=RSS&at_campaign=rss",
       "why_it_matters": "Destaca el crecimiento financiero y el impacto global de la industria de la inteligencia artificial."
+    },
+    {
+      "category": "other",
+      "id": "d0447442e0acdbfed705",
+      "priority": 40,
+      "published_at": "2026-11-22T17:58:24Z",
+      "region": "peru",
+      "source": "RPP Noticias",
+      "summary": "Universitario venció 4-1 a Alianza Lima en Matute y se consagró campeón de la Liga Femenina 2026.",
+      "title": "¡Universitario es campeón de la Liga Femenina 2026! Goleó 4-1 a Alianza Lima en Matute y celebró a lo grande",
+      "url": "https://rpp.pe/futbol/descentralizado/alianza-lima-vs-universitario-en-vivo-a-que-hora-y-donde-ver-en-directo-partido-transmision-final-vuelta-clausura-2026-liga-femenina-via-bicolor-partidos-de-hoy-noticia-1719133",
+      "why_it_matters": "Representa el desenlace del torneo nacional de fútbol femenino de mayor relevancia en el país."
+    },
+    {
+      "category": "other",
+      "id": "15c78b06700ece7da65d",
+      "priority": 40,
+      "published_at": "2026-11-22T16:41:19Z",
+      "region": "peru",
+      "source": "RPP Noticias",
+      "summary": "Universitario publicó un video motivacional en la previa de su partido contra Sport Huancayo por el Torneo Clausura 2026.",
+      "title": "Universitario se motiva para lograr el título del Clausura 2026 en Huancayo: \"No hay hazañas utópicas\"",
+      "url": "https://rpp.pe/futbol/descentralizado/universitario-vs-sport-huancayo-cremas-publican-motivador-mensaje-previo-a-ultima-fecha-del-clausura-2026-cuestion-de-fe-video-noticia-1719139",
+      "why_it_matters": "Inter interesa a los hinchas del fútbol peruano y del club crema."
+    },
+    {
+      "category": "other",
+      "id": "58eb38ff3d4b23d931e6",
+      "priority": 40,
+      "published_at": "2026-11-22T16:01:14Z",
+      "region": "peru",
+      "source": "RPP Noticias",
+      "summary": "La banda The Strokes ofreció un concierto en Lima interpretando 20 canciones a pesar de registrarse un fuerte sismo.",
+      "title": "The Strokes en Lima: 20 canciones, pogos y una noche que resistió hasta un fuerte sismo",
+      "url": "https://rpp.pe/musica/conciertos/the-strokes-en-lima-asi-fue-el-esperado-concierto-de-la-banda-en-el-estadio-san-marcos-video-noticia-1719064",
+      "why_it_matters": "Es de interés cultural y de entretenimiento local para los seguidores de la banda en Perú."
+    },
+    {
+      "category": "politics",
+      "id": "01898033296855d8583b",
+      "priority": 40,
+      "published_at": "2026-11-22T14:35:55Z",
+      "region": "world",
+      "source": "Al Jazeera",
+      "summary": "Bangladés se sumió en la violencia antes del regreso planeado de Hasina.",
+      "title": "Why Bangladesh descended into violence ahead of Hasina’s planned return",
+      "url": "https://www.aljazeera.com/news/2026/11/22/why-bangladesh-descended-into-violence-ahead-of-hasinas-planned-return?traffic_source=rss",
+      "why_it_matters": "La situación política en Bangladés es inestable y puede tener implicaciones regionales."
+    },
+    {
+      "category": "other",
+      "id": "1cdabf56cd7678f660b3",
+      "priority": 40,
+      "published_at": "2026-11-22T14:14:28Z",
+      "region": "peru",
+      "source": "RPP Noticias",
+      "summary": "Transmisión en vivo de la definición del Torneo Clausura 2026 con los partidos de Universitario, Sporting Cristal y Sport Huancayo.",
+      "title": "Definición del Torneo Clausura 2026: sigue EN VIVO aquí los partidos de Universitario, Sporting Cristal y Sport Huancayo",
+      "url": "https://rpp.pe/futbol/descentralizado/torneo-clausura-2026-definicion-ver-en-vivo-universitario-vs-sport-huancayo-y-sporting-cristal-ante-cienciano-en-directo-online-minuto-a-minuto-ultima-fecha-liga1-live-3725",
+      "why_it_matters": "De interés para los seguidores del fútbol peruano y el deporte nacional."
+    },
+    {
+      "category": "politics",
+      "id": "9a121329d7f4741324bf",
+      "priority": 40,
+      "published_at": "2026-11-22T14:00:13Z",
+      "region": "world",
+      "source": "BBC Mundo",
+      "summary": "Henry Acosta Patiño relata su rol como mensajero secreto en las negociaciones de paz entre el gobierno colombiano y las FARC.",
+      "title": "Pasé más de 10 años llevando por las montañas de Colombia los mensajes secretos que hicieron posible el acuerdo de paz entre el gobierno y las FARC",
+      "url": "https://www.bbc.com/mundo/articles/ckz74v0n4rydo?at_medium=RSS&at_campaign=rss",
+      "why_it_matters": "Permite conocer detalles históricos del proceso de paz en Colombia a una década de su firma."
+    },
+    {
+      "category": "politics",
+      "id": "9c4bb48c93f09859df28",
+      "priority": 40,
+      "published_at": "2026-11-22T12:31:30Z",
+      "region": "world",
+      "source": "Al Jazeera",
+      "summary": "Analisis sobre si el Congreso de Estados Unidos puede detener un posible conflicto con Iran basandose en su rol historico en la guerra de Vietnam.",
+      "title": "US Congress helped end the Vietnam War. Can it stop the Iran war?",
+      "url": "https://www.aljazeera.com/news/2026/11/22/us-congress-helped-end-the-vietnam-war-can-it-stop-the-iran?traffic_source=rss",
+      "why_it_matters": "Permite entender los limites y poderes de contrapeso del Congreso estadounidense en asuntos belicos internacionales."
+    },
+    {
+      "category": "politics",
+      "id": "eed2b753480f84a7f5e7",
+      "priority": 40,
+      "published_at": "2026-11-22T09:34:26Z",
+      "region": "world",
+      "source": "BBC Mundo",
+      "summary": "La reconstrucción de la ciudad de Derna tras devastadoras riadas es utilizada por el líder rebelde libio Khalifa Haftar como escaparate político.",
+      "title": "La ciudad reconstruida tras unas devastadoras riadas que se convirtió en escaparate del gobierno del líder rebelde libio",
+      "url": "https://www.bbc.com/mundo/articles/cm8x0q2kv42lo?at_medium=RSS&at_campaign=rss",
+      "why_it_matters": "Muestra la dinámica de poder y la estrategia de legitimación política en las zonas afectadas por conflictos en Libia."
     },
     {
       "category": "other",
@@ -2125,6 +2449,102 @@
       "why_it_matters": "Refleja el auge de los movimientos de extrema derecha y su discurso sobre inmigración en la política europea actual."
     },
     {
+      "category": "other",
+      "id": "99e3a23f2329fa2b150f",
+      "priority": 30,
+      "published_at": "2026-11-22T17:49:25Z",
+      "region": "world",
+      "source": "RPP Noticias",
+      "summary": "Hinchas de Boca Juniors celebraron en Buenos Aires tras ganar su tercera Copa Sudamericana frente a Mineiro.",
+      "title": "Algarabía xeneize: Boca y los festejos de sus hinchas en las calles de Buenos Aires por su tercera Copa Sudamericana",
+      "url": "https://rpp.pe/futbol/copa-sudamericana/boca-campeon-copa-sudamericana-2026-festejos-en-buenos-por-tercer-titulo-en-torneo-conmebol-fotos-noticia-1719154",
+      "why_it_matters": "Informa sobre los resultados del fútbol internacional de interés para la afición deportiva."
+    },
+    {
+      "category": "politics",
+      "id": "acf380ef78341abe39ee",
+      "priority": 30,
+      "published_at": "2026-11-22T17:21:11Z",
+      "region": "world",
+      "source": "RPP Noticias",
+      "summary": "Donald Trump afirmó que será muy difícil trabajar con el demócrata Chuck Schumer si este recupera el liderazgo en el Senado estadounidense.",
+      "title": "Donald Trump dice que será \"muy difícil\" trabajar con el demócrata Schumer si recupera el liderazgo del Senado",
+      "url": "https://rpp.pe/mundo/estados-unidos/donald-trump-dice-que-sera-muy-dificil-trabajar-con-el-democrata-schumer-si-recupera-el-liderazgo-del-senado-noticia-1719151",
+      "why_it_matters": "Afecta la dinámica política de Estados Unidos y su futura relación con la administración de Trump."
+    },
+    {
+      "category": "security",
+      "id": "0de2cd18c13a61a92fe9",
+      "priority": 30,
+      "published_at": "2026-11-22T17:12:48Z",
+      "region": "world",
+      "source": "Al Jazeera",
+      "summary": "Un buque ruso fue alcanzado por un presunto ataque de dron marino en la base naval de Bengasi en Libia.",
+      "title": "Russian vessel hit by suspected sea drone at Libya’s Benghazi naval base",
+      "url": "https://www.aljazeera.com/news/2026/11/22/suspected-drone-strike-hits-russian-vessel-in-libya?traffic_source=rss",
+      "why_it_matters": "Involucra tensiones geopolíticas y seguridad internacional, aunque sin repercusión local directa para el Perú."
+    },
+    {
+      "category": "other",
+      "id": "49a910d0cd222a3caa80",
+      "priority": 30,
+      "published_at": "2026-11-22T16:38:10Z",
+      "region": "world",
+      "source": "RPP Noticias",
+      "summary": "El cantante Raphael recibió el alta médica tras pasar la noche en observación por un malestar en España.",
+      "title": "Raphael recibe el alta médica y asegura que \"todo está bien\"",
+      "url": "https://rpp.pe/famosos/celebridades/raphael-recibe-el-alta-medica-y-asegura-que-todo-esta-bien-noticia-1719141",
+      "why_it_matters": "Es de interés general para los seguidores de la música internacional."
+    },
+    {
+      "category": "other",
+      "id": "1ed3fa5ff3aa653e33c6",
+      "priority": 30,
+      "published_at": "2026-11-22T15:53:27Z",
+      "region": "peru",
+      "source": "RPP Noticias",
+      "summary": "Se anunció la fecha, preventa y detalles para ver el reestreno con montaje extendido de 'Spider-Man: Un nuevo día' en cines de Perú.",
+      "title": "'Spider-Man: Un nuevo día' regresa a los cines: fecha, preventa y cómo comprar entradas en Perú",
+      "url": "https://rpp.pe/cine/internacional/spider-man-un-nuevo-dia-regresa-a-los-cines-fecha-preventa-y-como-comprar-entradas-en-peru-noticia-1718207",
+      "why_it_matters": "Informa sobre estrenos de cine y disponibilidad de entradas para el público peruano."
+    },
+    {
+      "category": "environment",
+      "id": "aa3610ab88817ba74852",
+      "priority": 30,
+      "published_at": "2026-11-22T12:12:20Z",
+      "region": "world",
+      "source": "BBC Mundo",
+      "summary": "La misión espacial BepiColombo llega a Mercurio para investigar por qué el planeta se está achicando y resolver otros misterios científicos.",
+      "title": "BepiColombo, la misión a Mercurio que busca descubrir por qué el planeta se está achicando (y otros misterios)",
+      "url": "https://www.bbc.com/mundo/articles/c68x04de2nzgo?at_medium=RSS&at_campaign=rss",
+      "why_it_matters": "Contribuye al avance del conocimiento científico sobre la formación y evolución de los planetas del sistema solar."
+    },
+    {
+      "category": "other",
+      "id": "90936ca24b56a7736aa5",
+      "priority": 30,
+      "published_at": "2026-11-22T12:02:04Z",
+      "region": "peru",
+      "source": "RPP Noticias",
+      "summary": "Lista de estrenos de películas disponibles hoy en plataformas de streaming en Perú, incluyendo Netflix, Amazon Prime, Disney y Max.",
+      "title": "Estrenos de Películas hoy 22 de noviembre del 2026",
+      "url": "https://rpp.pe/cine/cartelera/estrenos-de-peliculas-hoy-22-de-noviembre-del-2026-noticia-1719109",
+      "why_it_matters": "Ofrece opciones de entretenimiento para el público peruano interesado en el cine en casa."
+    },
+    {
+      "category": "other",
+      "id": "3e5d8fb4d38ff68de4f8",
+      "priority": 30,
+      "published_at": "2026-11-21T22:57:24Z",
+      "region": "world",
+      "source": "BBC Mundo",
+      "summary": "La princesa de Gales, Kate Middleton, reflexiona en un documental sobre cómo el diagnóstico de cáncer transformó su vida.",
+      "title": "La princesa de Gales, Kate Middleton, habla abiertamente sobre cómo el cáncer cambió su vida en un documental de la BBC",
+      "url": "https://www.bbc.com/mundo/articles/c6gregq1xynwo?at_medium=RSS&at_campaign=rss",
+      "why_it_matters": "Es de interés general sobre la salud y testimonios de figuras públicas, sin repercusiones políticas o económicas directas en Perú."
+    },
+    {
       "category": "security",
       "id": "a23b91776d42bd75bd58",
       "priority": 30,
@@ -2426,6 +2846,54 @@
     },
     {
       "category": "other",
+      "id": "bd9158010f8f20f31a2e",
+      "priority": 20,
+      "published_at": "2026-11-22T17:00:29Z",
+      "region": "world",
+      "source": "RPP Noticias",
+      "summary": "Liverpool y Manchester United se enfrentan en Anfield por la fecha 11 de la Premier League en el debut de Mauricio Pochettino.",
+      "title": "Liverpool vs Manchester United EN VIVO, en el debut de Mauricio Pochettino: juegan en Anfield por la fecha 11 de la Premier League",
+      "url": "https://rpp.pe/futbol/futbol-mundial/liverpool-vs-manchester-united-en-vivo-a-que-hora-y-donde-ver-en-directo-debut-mauricio-pochettino-fecha-11-premier-league-2026-via-espn-disney-partidos-de-hoy-noticia-1719027",
+      "why_it_matters": "Es un encuentro relevante para los seguidores del fútbol internacional y la liga inglesa."
+    },
+    {
+      "category": "other",
+      "id": "79eb96f3b20481a8a7a8",
+      "priority": 20,
+      "published_at": "2026-11-22T17:00:12Z",
+      "region": "world",
+      "source": "RPP Noticias",
+      "summary": "Incidencias del partido de la Premier League con la expulsión de Leny Yoro y un gol tempranero del Liverpool.",
+      "title": "La Premier League le dio la bienvenida a Mauricio Pochettino: expulsión y gol de Liverpool antes de los 10 minutos [VIDEO]",
+      "url": "https://rpp.pe/futbol/futbol-mundial/mauricio-pochettino-en-manchester-united-vs-liverpool-expulsion-de-leny-yoro-antes-de-los-10-minutos-y-gol-de-dominik-szoboszlai-para-el-1-0-de-liverpool-noticia-1719147",
+      "why_it_matters": "Detalla jugadas clave del encuentro de la liga inglesa."
+    },
+    {
+      "category": "other",
+      "id": "4c14023694decc619ffa",
+      "priority": 20,
+      "published_at": "2026-11-22T15:10:02Z",
+      "region": "world",
+      "source": "RPP Noticias",
+      "summary": "El Barcelona venció 3-2 al Villarreal en un disputado encuentro por LaLiga EA Sports.",
+      "title": "LaLiga EA Sports: Barcelona superó 3-2 a Villarreal en un partidazo",
+      "url": "https://rpp.pe/futbol/ligas-internacionales/laliga-ea-sports-barcelona-necesita-sumar-de-a-3-puntos-para-mantenerse-en-la-cima-noticia-1718963",
+      "why_it_matters": "Mantiene informados a los aficionados al fútbol internacional y local sobre el desarrollo de la liga española."
+    },
+    {
+      "category": "other",
+      "id": "27023c958bea334840db",
+      "priority": 20,
+      "published_at": "2026-11-21T18:52:41Z",
+      "region": "world",
+      "source": "BBC Mundo",
+      "summary": "Una crónica sobre un grupo de australianos que fundaron una colonia en Paraguay a finales del siglo XIX.",
+      "title": "\"La utopía socialista\" que llevó a un grupo de australianos idealistas a Paraguay hace más de 130 años (y en qué terminó la experiencia)",
+      "url": "https://www.bbc.com/mundo/articles/cr5yny54gvy3o?at_medium=RSS&at_campaign=rss",
+      "why_it_matters": "Ofrece una perspectiva histórica sobre experimentos sociales en Sudamérica, aunque de impacto limitado para el lector actual en Perú."
+    },
+    {
+      "category": "other",
       "id": "6933a4233bf1beaf4974",
       "priority": 20,
       "published_at": "2026-11-21T16:45:52Z",
@@ -2447,6 +2915,18 @@
       "title": "Con todas sus armas: el once de Sporting Cristal para recibir a Cienciano por el Torneo Clausura 2026",
       "url": "https://rpp.pe/futbol/descentralizado/sporting-cristal-vs-cienciano-el-once-celeste-para-el-duelo-por-el-torneo-clausura-2026-noticia-1718869",
       "why_it_matters": "De interés para los aficionados del fútbol peruano y seguidores del club Sporting Cristal."
+    },
+    {
+      "category": "other",
+      "id": "57cda69854f531efeb7c",
+      "priority": 20,
+      "published_at": "2026-11-21T12:21:16Z",
+      "region": "world",
+      "source": "BBC Mundo",
+      "summary": "El músico uruguayo Jorge Drexler reflexiona sobre el envejecimiento tras ganar tres premios Latin Grammy y recibir dos nominaciones al Grammy anglosajón.",
+      "title": "\"Hay una parte de mí que va aprendiendo a ser viejo, pero hay otra a la que le cuesta muchísimo\": Jorge Drexler",
+      "url": "https://www.bbc.com/mundo/articles/c6n90g8p3nlwo?at_medium=RSS&at_campaign=rss",
+      "why_it_matters": "Ofrece una perspectiva humana y artística de una figura relevante de la música iberoamericana."
     },
     {
       "category": "other",
@@ -2522,6 +3002,30 @@
     },
     {
       "category": "other",
+      "id": "979f0d76e930d59babd9",
+      "priority": 15,
+      "published_at": "2026-11-22T16:07:23Z",
+      "region": "world",
+      "source": "RPP Noticias",
+      "summary": "Jaafar Jackson relató que perdió la voz temporalmente tras interpretar una canción para la película biográfica de Michael Jackson.",
+      "title": "Jaafar Jackson perdió la voz tras cantar una canción de Michael Jackson para su película biográfica",
+      "url": "https://rpp.pe/famosos/celebridades/jaafar-jackson-perdio-la-voz-tras-cantar-una-cancion-de-michael-jackson-para-su-pelicula-biografica-noticia-1718932",
+      "why_it_matters": "Ofrece detalles sobre la producción del filme biográfico del artista, relevante para la industria del cine y la música."
+    },
+    {
+      "category": "other",
+      "id": "0be8d0e86631a177e829",
+      "priority": 15,
+      "published_at": "2026-11-22T16:05:06Z",
+      "region": "world",
+      "source": "RPP Noticias",
+      "summary": "El Paris FC goleó 4-0 al Angers en un encuentro correspondiente a la Primera División del fútbol francés.",
+      "title": "Liga de Francia: Paris FC golea 4-0 a Angers",
+      "url": "https://rpp.pe/futbol/ligas-internacionales/liga-de-francia-paris-fc-necesita-los-tres-puntos-para-ser-puntero-noticia-1718965",
+      "why_it_matters": "Es de interés deportivo internacional, aunque de impacto limitado para el público general en Perú."
+    },
+    {
+      "category": "other",
       "id": "429b7fcc97833b5a8bd2",
       "priority": 15,
       "published_at": "2026-11-19T12:02:04Z",
@@ -2531,6 +3035,90 @@
       "title": "Estrenos de Películas hoy 19 de noviembre del 2026",
       "url": "https://rpp.pe/cine/cartelera/estrenos-de-peliculas-hoy-19-de-noviembre-del-2026-noticia-1718521",
       "why_it_matters": "Informa al público sobre las nuevas opciones de entretenimiento en streaming en el país."
+    },
+    {
+      "category": "other",
+      "id": "7b32d72f0ff768c2fc06",
+      "priority": 10,
+      "published_at": "2026-11-22T17:20:41Z",
+      "region": "world",
+      "source": "RPP Noticias",
+      "summary": "El jugador del Barcelona, Fermín López, fue expulsado estando en el banquillo tras un airado reclamo al cuarto árbitro en el partido contra el Villarreal.",
+      "title": "Fermín López fue expulsado en el banquillo del Barcelona por airado reclamó al cuarto árbitro ante Villarreal",
+      "url": "https://rpp.pe/futbol/futbol-mundial/fc-barcelona-fermin-lopez-expulsado-en-banquillo-por-airado-reclamo-al-cuarto-arbitro-ante-vilalrreal-no-me-jodas-noticia-1719150",
+      "why_it_matters": "Informa sobre un incidente disciplinario en el fútbol español de interés para los seguidores del deporte."
+    },
+    {
+      "category": "other",
+      "id": "b51e7ba326f804bb76d4",
+      "priority": 10,
+      "published_at": "2026-11-22T17:20:04Z",
+      "region": "world",
+      "source": "RPP Noticias",
+      "summary": "El Racing Santander venció 3-2 a la Real Sociedad con un doblete de Mohamed Zabiri en un encuentro de LaLiga EA Sports.",
+      "title": "LaLiga EA Sports: Racing Santander gana 3-2 a Real Sociedad con doblete de Mohamed Zabiri",
+      "url": "https://rpp.pe/futbol/ligas-internacionales/laliga-ea-sports-se-enfrentan-racing-santander-y-real-sociedad-por-la-fecha-13-noticia-1718970",
+      "why_it_matters": "Detalla el resultado de un partido de la liga española de fútbol."
+    },
+    {
+      "category": "other",
+      "id": "b5b58478c2b5cb3aefcc",
+      "priority": 10,
+      "published_at": "2026-11-22T16:08:15Z",
+      "region": "world",
+      "source": "RPP Noticias",
+      "summary": "La actriz Erika Eleniak, conocida por su papel en 'Baywatch', reveló que la plataforma OnlyFans evitó que fuera desalojada de su hogar.",
+      "title": "Erika Eleniak, estrella de 'Baywatch', dijo que OnlyFans la salvó de ser desalojada de su casa",
+      "url": "https://rpp.pe/famosos/celebridades/erika-eleniak-estrella-de-baywatch-dijo-que-onlyfans-la-salvo-de-ser-desalojada-de-su-casa-noticia-1719038",
+      "why_it_matters": "Trata sobre entretenimiento y la situación económica de una figura pública internacional."
+    },
+    {
+      "category": "other",
+      "id": "13e9b1915080b509f323",
+      "priority": 10,
+      "published_at": "2026-11-22T16:05:06Z",
+      "region": "world",
+      "source": "RPP Noticias",
+      "summary": "Bologna y Udinese empataron 1-1 en un encuentro correspondiente a la Serie A de Italia.",
+      "title": "Serie A: Bologna y Udinese empataron 1 a 1",
+      "url": "https://rpp.pe/futbol/ligas-internacionales/serie-a-udinese-enfrenta-a-bologna-buscando-salir-del-fondo-noticia-1718966",
+      "why_it_matters": "Proporciona actualización de resultados del fútbol internacional."
+    },
+    {
+      "category": "other",
+      "id": "f889562f7e31277ac577",
+      "priority": 10,
+      "published_at": "2026-11-22T16:05:05Z",
+      "region": "world",
+      "source": "RPP Noticias",
+      "summary": "Genoa derrotó 2-0 a Sassuolo en la Serie A gracias a un doblete de Milutin Osmajic.",
+      "title": "Serie A: Doblete de Milutin Osmajic en el triunfo 2-0 de Genoa frente a Sassuolo",
+      "url": "https://rpp.pe/futbol/ligas-internacionales/serie-a-sassuolo-quiere-volver-a-festejar-frente-a-genoa-noticia-1718967",
+      "why_it_matters": "Cubre resultados del fútbol europeo de interés para los seguidores del deporte."
+    },
+    {
+      "category": "other",
+      "id": "f2d00cd12eacd74e6174",
+      "priority": 10,
+      "published_at": "2026-11-22T16:05:04Z",
+      "region": "world",
+      "source": "RPP Noticias",
+      "summary": "Hull City venció 2-0 a Brighton and Hove en la Premier League con un doblete de Oli McBurnie.",
+      "title": "Premier League: Doblete de Oli McBurnie guió el triunfo 2-0 de Hull City sobre Brighton and Hove",
+      "url": "https://rpp.pe/futbol/ligas-internacionales/premier-league-hull-city-y-brighton-and-hove-se-encuentran-en-la-fecha-11-noticia-1718968",
+      "why_it_matters": "Es información deportiva internacional de interés general para aficionados al fútbol."
+    },
+    {
+      "category": "other",
+      "id": "f52db2345695a1336560",
+      "priority": 10,
+      "published_at": "2026-11-22T13:46:07Z",
+      "region": "world",
+      "source": "BBC Mundo",
+      "summary": "Artículo cultural que relata cómo unas neveras del ejército de EE.UU. en Toscana influyeron en la historia del helado italiano.",
+      "title": "Cómo dos neveras abandonadas por el ejército de EE.UU. en Toscana dieron origen al helado italiano",
+      "url": "https://www.bbc.com/mundo/articles/c3d3g9d1rk3o?at_medium=RSS&at_campaign=rss",
+      "why_it_matters": "Es una curiosidad histórica y gastronómica sin relevancia directa para la agenda pública peruana."
     },
     {
       "category": "other",
@@ -2593,7 +3181,7 @@
       "why_it_matters": "Ofrece una perspectiva humana sobre condiciones médicas poco habladas y la salud mental."
     }
   ],
-  "generated_at": "2026-11-21T17:51:24.879940Z",
+  "generated_at": "2026-11-22T18:09:11.650582Z",
   "schema_version": 1,
   "source_failures": []
 }
