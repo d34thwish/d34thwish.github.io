@@ -25,6 +25,18 @@
       "why_it_matters": "El ataque contra infraestructura de ayuda agrava el costo civil y reduce las señales de desescalada."
     },
     {
+      "category": "services",
+      "id": "ba5736d01242ba6cbf2e",
+      "priority": 90,
+      "published_at": "2026-11-26T10:00:38Z",
+      "region": "peru",
+      "source": "RPP Noticias",
+      "summary": "Sedapal anuncia cortes de agua programados en diversos distritos de Lima.",
+      "title": "Corte de agua en Lima hoy 26 de noviembre: Distritos y horarios afectados",
+      "url": "https://rpp.pe/lima/obras/corte-de-agua-en-lima-hoy-26-de-noviembre-distritos-y-horarios-afectados-noticia-1719886",
+      "why_it_matters": "Es crucial para que los ciudadanos afectados tomen precauciones ante la interrupción del servicio."
+    },
+    {
       "category": "security",
       "id": "0e6b244390f7684d0dd1",
       "priority": 90,
@@ -95,6 +107,42 @@
       "title": "Senamhi advierte aumento de lluvias intensas y cambios de temperatura",
       "url": "https://rpp.pe/peru/actualidad/senamhi-lluvias-intensas-se-incrementaran-en-el-norte-del-pais-noticia-1715605",
       "why_it_matters": "La combinación de lluvia y drenaje vulnerable eleva el riesgo de interrupciones y daños."
+    },
+    {
+      "category": "economy",
+      "id": "3b3199e456a1b2196332",
+      "priority": 85,
+      "published_at": "2026-11-26T18:42:04Z",
+      "region": "peru",
+      "source": "RPP Noticias",
+      "summary": "El BID anunció un financiamiento de US$ 10.000 millones para el Perú en los próximos cuatro años, destinando US$6.000 millones a inversión pública y US$4.000 millones al sector privado.",
+      "title": "BID anuncia financiamiento de US$ 10.000 millones a Perú: ¿a qué se destinarán estos recursos?",
+      "url": "https://rpp.pe/economia/economia/bid-habilita-financiamiento-de-us-10000-millones-a-peru-a-que-se-destinaran-estos-recursos-noticia-1719987",
+      "why_it_matters": "Los recursos impulsarán sectores clave como educación, seguridad, agua e infraestructura resiliente, impactando directamente en el desarrollo económico y social del país."
+    },
+    {
+      "category": "environment",
+      "id": "b277a3ef4f7eb57f081d",
+      "priority": 85,
+      "published_at": "2026-11-26T18:15:16Z",
+      "region": "peru",
+      "source": "RPP Noticias",
+      "summary": "La sensación térmica en Lima alcanzó los 37 °C y el Senamhi mantiene una alerta roja en la costa.",
+      "title": "Lima es un horno: sensación térmica en la capital alcanzó picos de 37 °C este jueves",
+      "url": "https://rpp.pe/lima/actualidad/lima-es-un-horno-sensacion-termica-en-la-capital-alcanzo-picos-de-37-0c-este-jueves-noticia-1719975",
+      "why_it_matters": "Afecta directamente la salud y el bienestar de los ciudadanos debido a las altas temperaturas inusuales en Lima."
+    },
+    {
+      "category": "services",
+      "id": "5797e784016996866a00",
+      "priority": 85,
+      "published_at": "2026-11-26T16:53:43Z",
+      "region": "peru",
+      "source": "RPP Noticias",
+      "summary": "La tuneladora Micaela finalizó las excavaciones subterráneas para la Línea 2 y el ramal de la Línea 4 del Metro de Lima y Callao.",
+      "title": "Tuneladora Micaela se despide tras culminar excavaciones de la Línea 2 y el ramal de la Línea 4 del Metro de Lima",
+      "url": "https://rpp.pe/lima/actualidad/tuneladora-micaela-se-despide-tras-culminar-excavaciones-de-la-linea-2-y-el-ramal-de-la-linea-4-del-metro-de-lima-noticia-1719944",
+      "why_it_matters": "Representa un avance significativo en la infraestructura de transporte masivo que beneficiará a millones de ciudadanos en Lima y Callao."
     },
     {
       "category": "politics",
@@ -335,6 +383,30 @@
       "title": "Gobierno anuncia reclasificación de internos y traslados a Challapalca",
       "url": "https://rpp.pe/peru/actualidad/keiko-fujimori-anuncia-reclasificacion-de-internos-y-traslado-de-los-mas-peligrosos-a-challapalca-noticia-1715637",
       "why_it_matters": "Anticipa cambios en política penitenciaria y abre preguntas sobre seguridad, capacidad y supervisión."
+    },
+    {
+      "category": "security",
+      "id": "8e2adab2345cd1aefbbc",
+      "priority": 80,
+      "published_at": "2026-11-26T19:44:05Z",
+      "region": "peru",
+      "source": "Al Jazeera",
+      "summary": "Perú quema más de 10 toneladas de drogas incautadas.",
+      "title": "Peru burns more than 10 tonnes of seized drugs",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/peru-burns-more-than-10-tonnes-of-seized-drugs?traffic_source=rss",
+      "why_it_matters": "Es un paso importante en la lucha contra el narcotráfico."
+    },
+    {
+      "category": "politics",
+      "id": "325c1dbe0229a834abfa",
+      "priority": 80,
+      "published_at": "2026-11-26T19:00:22Z",
+      "region": "peru",
+      "source": "RPP Noticias",
+      "summary": "Proética presentó 14 propuestas de reformas legislativas para combatir la criminalidad y corregir normas del Congreso anterior que limitan la labor de jueces, fiscales y policías.",
+      "title": "Proética presentó conjunto de 14 propuestas de reformas legislativas para la lucha contra la criminalidad",
+      "url": "https://rpp.pe/videos/la-rotativa-del-aire/proetica-presento-conjunto-de-14-propuestas-de-reformas-legislativas-para-la-lucha-contra-la-criminalidad-noticia-1719980",
+      "why_it_matters": "Busca fortalecer las herramientas legales de investigación contra el delito en un contexto de alta preocupación por la seguridad ciudadana en el Perú."
     },
     {
       "category": "alert",
@@ -683,6 +755,54 @@
       "title": "MEF y Congreso discrepan sobre puntos clave del Presupuesto 2027",
       "url": "https://rpp.pe/economia/economia/presupuesto-2027-canon-minero-freno-a-mas-universidades-y-candados-al-gasto-los-desacuerdos-entre-el-mef-y-congreso-noticia-1715599",
       "why_it_matters": ""
+    },
+    {
+      "category": "economy",
+      "id": "d7eeb1bec856ccb5f5d4",
+      "priority": 75,
+      "published_at": "2026-11-26T17:24:27Z",
+      "region": "peru",
+      "source": "RPP Noticias",
+      "summary": "Pescadores en suspensión perfecta por el Fenómeno El Niño y sus familias pasarán temporalmente al SIS si pierden su cobertura de EsSalud.",
+      "title": "Pescadores en suspensión perfecta por el Fenómeno El Niño: trabajadores que pierdan su cobertura de EsSalud pasarán al SIS",
+      "url": "https://rpp.pe/economia/economia/pescadores-en-suspension-perfecta-por-el-nino-trabajadores-que-pierdan-su-cobertura-de-essalud-pasaran-al-sis-noticia-1719963",
+      "why_it_matters": "Garantiza la continuidad de la atención en salud para trabajadores afectados por emergencias climáticas y normativas laborales."
+    },
+    {
+      "category": "economy",
+      "id": "e26f936e8009ed947212",
+      "priority": 75,
+      "published_at": "2026-11-26T17:00:16Z",
+      "region": "peru",
+      "source": "RPP Noticias",
+      "summary": "El ministro de Energía y Minas, Guillermo Shinno, habló sobre los avances para impulsar el proyecto del Gasoducto Sur.",
+      "title": "Ministro Guillermo Shinno sobre el Gasoducto Sur: \"Esperamos tener en poco tiempo algo mucho más concreto\"",
+      "url": "https://rpp.pe/economia/economia/ministro-guillermo-shinno-sobre-el-gasoducto-sur-esperamos-tener-en-poco-tiempo-algo-mucho-mas-concreto-noticia-1719955",
+      "why_it_matters": "Informa sobre el desarrollo de infraestructura energética clave para el país."
+    },
+    {
+      "category": "politics",
+      "id": "cbf34171d8101298920e",
+      "priority": 75,
+      "published_at": "2026-11-26T16:55:31Z",
+      "region": "world",
+      "source": "RPP Noticias",
+      "summary": "Donald Trump declar3 que solicit3 a Vladimir Putin poner fin a la agresi3n militar en territorios europeos y expres3 confianza en un acuerdo r&#225;pido.",
+      "title": "Trump dice que pidió a Putin poner fin a toda agresión militar contra territorios europeos",
+      "url": "https://rpp.pe/mundo/estados-unidos/donald-trump-dice-que-pidio-a-putin-poner-fin-a-toda-agresion-militar-contra-territorios-europeos-noticia-1719956",
+      "why_it_matters": "Afecta la geopol&#237;tica global y los esfuerzos internacionales para resolver el conflicto en Europa."
+    },
+    {
+      "category": "security",
+      "id": "8e932e6649e33f4ecac2",
+      "priority": 75,
+      "published_at": "2026-11-26T15:55:15Z",
+      "region": "world",
+      "source": "Al Jazeera",
+      "summary": "Un ataque con dron atribuido a Irán en Kuwait dejó dos trabajadores italianos muertos y cuatro heridos, según el ejército kuwaití.",
+      "title": "Two dead after Iranian drone attack on Kuwait",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/two-dead-after-iranian-drone-attack-on-kuwait?traffic_source=rss",
+      "why_it_matters": "Afecta la seguridad en Oriente Medio y genera tensiones internacionales."
     },
     {
       "category": "economy",
@@ -1055,6 +1175,78 @@
       "title": "Usuarios retiran US$3,600 millones de Binance tras un gran hackeo",
       "url": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o",
       "why_it_matters": ""
+    },
+    {
+      "category": "services",
+      "id": "010bc36f842bdda90875",
+      "priority": 70,
+      "published_at": "2026-11-26T19:35:50Z",
+      "region": "peru",
+      "source": "RPP Noticias",
+      "summary": "La Municipalidad de Lima restringirá el tránsito vehicular en la Costa Verde entre las bajadas San Martín y Armendáriz durante un mes y medio por reparaciones debido a oleajes.",
+      "title": "Trabajos de reparación de infraestructura en la Costa Verde se extenderán por un mes y medio",
+      "url": "https://rpp.pe/lima/actualidad/coste-verde-trabajos-de-reparacion-de-infraestructura-se-extenderan-por-un-mes-y-medio-noticia-1719989",
+      "why_it_matters": "Afecta el tráfico diario y las rutas de transporte en una vía principal de Lima."
+    },
+    {
+      "category": "politics",
+      "id": "1d98d86a592be19e98bb",
+      "priority": 70,
+      "published_at": "2026-11-26T17:54:16Z",
+      "region": "peru",
+      "source": "RPP Noticias",
+      "summary": "Keiko Fujimori solicitó la aprobación del proyecto gubernamental sobre la Ley MAPE y expresó su expectativa sobre la actitud del Congreso.",
+      "title": "Keiko Fujimori pide aprobar el proyecto del Gobierno sobre Ley MAPE: \"Quiero confiar en la buena actitud del Congreso\"",
+      "url": "https://rpp.pe/politica/congreso/keiko-fujimori-pide-al-congreso-debatir-y-aprobar-el-proyecto-gubernamental-sobre-ley-mape-noticia-1719968",
+      "why_it_matters": "La formalización minera y la postura de las fuerzas políticas impactan directamente en la regulación del sector en el país."
+    },
+    {
+      "category": "alert",
+      "id": "cc6f714f32a39b7984fa",
+      "priority": 70,
+      "published_at": "2026-11-26T17:50:35Z",
+      "region": "peru",
+      "source": "RPP Noticias",
+      "summary": "Un incendio consumió un local comercial en el jirón Pastaza, en el distrito de Breña, y requirió la intervención de cuatro unidades de bomberos.",
+      "title": "Alarma en Breña: incendio consumió local comercial del jirón Pastaza [VIDEO]",
+      "url": "https://rpp.pe/lima/actualidad/brena-incendio-consumio-local-comercial-del-jiron-pastaza-video-noticia-1719967",
+      "why_it_matters": "Es crucial para la seguridad ciudadana y la prevención de riesgos urbanos en la capital."
+    },
+    {
+      "category": "services",
+      "id": "51816a98ff4d1bbcddf8",
+      "priority": 70,
+      "published_at": "2026-11-26T16:54:17Z",
+      "region": "peru",
+      "source": "RPP Noticias",
+      "summary": "Liliana Cabani, candidata de la lista 2, present3 sus propuestas para el Decanato del Colegio M&#233;dico centradas en el di&#243;logo, condiciones laborales y prevenci3n del dengue.",
+      "title": "Liliana Cabani: estas son sus propuestas con miras a las elecciones del Decanato del Colegio Médico",
+      "url": "https://rpp.pe/videos/la-rotativa-del-aire/liliana-cabani-sus-propuestas-con-miras-a-las-elecciones-del-decanato-del-colegio-medico-noticia-1719947",
+      "why_it_matters": "Informa sobre las elecciones y propuestas para el gremio m&#233;dico en el Per&#250;."
+    },
+    {
+      "category": "economy",
+      "id": "a8c11c6bd31e573ffd27",
+      "priority": 70,
+      "published_at": "2026-11-26T16:41:32Z",
+      "region": "peru",
+      "source": "RPP Noticias",
+      "summary": "El abogado César Nakazaki calificó las investigaciones fiscales contra Prosegur como una embestida de la economía ilegal y afirmó que carecen de sustento.",
+      "title": "César Nakazaki dice que investigaciones fiscales contra Prosegur carecen de sustento y son \"una embestida de la economía ilegal\"",
+      "url": "https://rpp.pe/lima/judiciales/cesar-nakazaki-dice-que-investigaciones-fiscales-contra-prosegur-carecen-de-sustento-y-son-una-embestida-de-la-economia-ilegal-noticia-1719926",
+      "why_it_matters": "Involucra a una empresa clave de transporte de caudales en el país y genera debate sobre las acciones del Ministerio Público frente a sectores formales e informales."
+    },
+    {
+      "category": "environment",
+      "id": "e1560a417922416debe5",
+      "priority": 70,
+      "published_at": "2026-11-26T09:00:45Z",
+      "region": "peru",
+      "source": "RPP Noticias",
+      "summary": "SENAMHI presenta el pronóstico del clima y temperatura para Lima y diversas ciudades del Perú.",
+      "title": "SENAMHI: Pronóstico del clima hoy jueves 26 de noviembre 2026",
+      "url": "https://rpp.pe/peru/actualidad/senamhi-pronostico-del-clima-hoy-jueves-26-de-noviembre-2026-noticia-1719885",
+      "why_it_matters": "Permite a los ciudadanos conocer las condiciones meteorológicas y la radiación UV diaria."
     },
     {
       "category": "politics",
@@ -1489,6 +1681,30 @@
       "why_it_matters": ""
     },
     {
+      "category": "economy",
+      "id": "44b534abd823a8a7d145",
+      "priority": 65,
+      "published_at": "2026-11-26T18:17:21Z",
+      "region": "peru",
+      "source": "RPP Noticias",
+      "summary": "Una ollita común en Villa María del Triunfo solicita ayuda económica y víveres para mantener sus 35 raciones diarias ante la falta de recursos.",
+      "title": "Ollita común de VMT pide apoyo para comprar víveres y cumplir con raciones diarias: \"No nos alcanza para comprar carne\"",
+      "url": "https://rpp.pe/lima/actualidad/ollita-comun-de-vmt-pide-apoyo-para-comprar-viveres-y-cumplir-con-raciones-diarias-no-nos-alcanza-para-comprar-carne-noticia-1719964",
+      "why_it_matters": "Refleja la vulnerabilidad alimentaria y las dificultades económicas que afectan a sectores necesitados en Lima."
+    },
+    {
+      "category": "economy",
+      "id": "98794f5223a84061331a",
+      "priority": 65,
+      "published_at": "2026-11-26T15:15:17Z",
+      "region": "peru",
+      "source": "RPP Noticias",
+      "summary": "Cálidda proyecta alcanzar mil conexiones de gas natural en Cusco y anticipa un incremento de un sol en los recibos de Lima.",
+      "title": "Cálidda proyecta 1000 conexiones de gas natural en Cusco hasta marzo y alza de S/1 en recibos de Lima",
+      "url": "https://rpp.pe/economia/economia/firman-adenda-de-calidda-empresa-proyecta-1000-conexiones-de-gas-natural-en-cusco-hasta-marzo-y-alza-de-s-1-en-recibos-de-lima-noticia-1719925",
+      "why_it_matters": "Muestra la expansión del servicio de gas en regiones y los ajustes tarifarios que afectan a los consumidores de Lima."
+    },
+    {
       "category": "environment",
       "id": "733b5b8131bea2376e0f",
       "priority": 65,
@@ -1583,6 +1799,78 @@
       "title": "Alerta nuclear falsa tras hackeo de una aplicación en Ucrania",
       "url": "https://www.bbc.co.uk/news/articles/cwx28mngxz8do",
       "why_it_matters": ""
+    },
+    {
+      "category": "politics",
+      "id": "176ba0183227250bb2f6",
+      "priority": 60,
+      "published_at": "2026-11-26T19:09:39Z",
+      "region": "world",
+      "source": "Al Jazeera",
+      "summary": "Un juez anula las últimas restricciones de Trump sobre la ciudadanía por nacimiento en EE. UU.",
+      "title": "Judge strikes down Trump’s latest restrictions on US birthright citizenship",
+      "url": "https://www.aljazeera.com/news/2026/11/26/judge-strikes-down-trumps-latest-restrictions-on-us-birthright-citizenship?traffic_source=rss",
+      "why_it_matters": "La decisión puede tener implicaciones para la política de inmigración en EE. UU."
+    },
+    {
+      "category": "politics",
+      "id": "6f2d7c396033d6579f40",
+      "priority": 60,
+      "published_at": "2026-11-26T18:30:36Z",
+      "region": "world",
+      "source": "Al Jazeera",
+      "summary": "Jared Kushner habla sobre la destrucción de Gaza.",
+      "title": "Kushner explains the ‘good thing’ about Gaza’s destruction",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/kushner-explains-the-good-thing-about-gazas-destruction?traffic_source=rss",
+      "why_it_matters": "Comentarios polémicos sobre el conflicto en Gaza."
+    },
+    {
+      "category": "economy",
+      "id": "cb913a1768e9ff785dce",
+      "priority": 60,
+      "published_at": "2026-11-26T17:53:44Z",
+      "region": "world",
+      "source": "Al Jazeera",
+      "summary": "Líderes de la UE luchan por acuerdo sobre presupuesto a largo plazo y préstamo a Ucrania.",
+      "title": "EU leaders struggle to agree on long-term budget, $49bn Ukraine loan",
+      "url": "https://www.aljazeera.com/economy/2026/11/26/eu-leaders-struggle-to-agree-on-long-term-budget-more-money-for-ukraine?traffic_source=rss",
+      "why_it_matters": "El presupuesto y el préstamo afectarán la economía global."
+    },
+    {
+      "category": "security",
+      "id": "488976b24359ba7cff76",
+      "priority": 60,
+      "published_at": "2026-11-26T16:49:59Z",
+      "region": "world",
+      "source": "Al Jazeera",
+      "summary": "La muerte de un adolescente plantea dudas sobre la represión de la seguridad en Colombia.",
+      "title": "How a teen’s death raises questions about Colombia’s security crackdown",
+      "url": "https://www.aljazeera.com/news/longform/2026/11/26/how-a-teens-death-raises-questions-about-colombias-security-crackdown?traffic_source=rss",
+      "why_it_matters": "Un caso que cuestiona la efectividad y el respeto a los derechos humanos en la lucha contra los grupos armados."
+    },
+    {
+      "category": "environment",
+      "id": "f7ab2fe3de52940f3982",
+      "priority": 60,
+      "published_at": "2026-11-26T16:37:09Z",
+      "region": "world",
+      "source": "BBC Mundo",
+      "summary": "Un petrolero con 7.000 toneladas de combustible se hunde cerca de Ibiza, generando alerta ambiental.",
+      "title": "Un petrolero con 7.000 toneladas de combustible se hunde cerca de las costas de la isla de Ibiza",
+      "url": "https://www.bbc.com/mundo/articles/cm5y1l439dz6o?at_medium=RSS&at_campaign=rss",
+      "why_it_matters": "Los derrames de petróleo representan riesgos ecológicos graves que requieren una respuesta inmediata de contención."
+    },
+    {
+      "category": "economy",
+      "id": "8b9ebdd6ac217d1b0a35",
+      "priority": 60,
+      "published_at": "2026-11-26T11:05:39Z",
+      "region": "peru",
+      "source": "RPP Noticias",
+      "summary": "El tipo de cambio del dólar en el Perú para el jueves 26 de noviembre de 2026 se ubica en S/3.48 según el Banco Central de Reserva del Perú.",
+      "title": "Precio del dólar Perú y tipo de cambio hoy 26 de noviembre del 2026",
+      "url": "https://rpp.pe/economia/economia/precio-del-dolar-peru-y-tipo-de-cambio-hoy-26-de-noviembre-del-2026-noticia-1719896",
+      "why_it_matters": "Conocer la cotización diaria del dólar es fundamental para las finanzas personales, transacciones comerciales y operaciones económicas en el mercado local."
     },
     {
       "category": "politics",
@@ -2257,6 +2545,90 @@
       "why_it_matters": ""
     },
     {
+      "category": "economy",
+      "id": "747bd29bc3902685e18e",
+      "priority": 50,
+      "published_at": "2026-11-26T18:53:15Z",
+      "region": "world",
+      "source": "Al Jazeera",
+      "summary": "¿Qué significarán las últimas tarifas de Trump para el mundo?",
+      "title": "What will Trump’s latest tariffs mean for the world?",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/11/26/what-will-trumps-latest-tariffs-mean-for-the-world?traffic_source=rss",
+      "why_it_matters": "Las nuevas medidas pueden afectar el comercio internacional y la economía global"
+    },
+    {
+      "category": "politics",
+      "id": "663f0f630a3f534344c5",
+      "priority": 50,
+      "published_at": "2026-11-26T18:27:27Z",
+      "region": "world",
+      "source": "Al Jazeera",
+      "summary": "Trump cuestiona la autenticidad de los datos de PIB.",
+      "title": "Trump calls GDP data released before midterms ‘fake’, demands investigation",
+      "url": "https://www.aljazeera.com/economy/2026/11/26/trump-calls-gdp-data-released-before-midterms-fake-demands-investigation?traffic_source=rss",
+      "why_it_matters": "Denuncias de manipulación de datos económicos."
+    },
+    {
+      "category": "economy",
+      "id": "258abdd207997e530f9e",
+      "priority": 50,
+      "published_at": "2026-11-26T18:03:03Z",
+      "region": "peru",
+      "source": "RPP Noticias",
+      "summary": "Expertos señalan que las empresas en el Perú deben establecer políticas para gestionar el uso de la inteligencia artificial y evitar riesgos de ciberseguridad.",
+      "title": "Inteligencia artificial en las empresas: ¿qué riesgos enfrentan si no establecen reglas para su uso?",
+      "url": "https://rpp.pe/economia/economia/inteligencia-artificial-y-ciberseguridad-que-deben-hacer-las-empresas-para-proteger-su-informacion-noticia-1719965",
+      "why_it_matters": "Orienta a las organizaciones locales sobre la importancia del gobierno corporativo frente a nuevas tecnologías."
+    },
+    {
+      "category": "politics",
+      "id": "2ad88a0708c019c4f706",
+      "priority": 50,
+      "published_at": "2026-11-26T17:38:02Z",
+      "region": "world",
+      "source": "Al Jazeera",
+      "summary": "El juicio por corrupción de Netanyahu vuelve a ser noticia.",
+      "title": "Netanyahu’s corruption trial: Is it really all over?",
+      "url": "https://www.aljazeera.com/news/2026/11/26/netanyahus-corruption-trial-is-it-really-all-over?traffic_source=rss",
+      "why_it_matters": "El resultado del juicio impactará la política israelí."
+    },
+    {
+      "category": "other",
+      "id": "e01ec0abd6ec8e54de7a",
+      "priority": 50,
+      "published_at": "2026-11-26T15:56:13Z",
+      "region": "world",
+      "source": "BBC Mundo",
+      "summary": "EE.UU. aprueba el proyecto Starmind de Elon Musk para colocar un millón de satélites enfocados en inteligencia artificial.",
+      "title": "Starmind, el polémico proyecto de Elon Musk aprobado por EE.UU. para lanzar 1 millón de satélites al espacio",
+      "url": "https://www.bbc.com/mundo/articles/c5y4j0nyelemo?at_medium=RSS&at_campaign=rss",
+      "why_it_matters": "Podría transformar significativamente la infraestructura espacial y la capacidad global de procesamiento tecnológico."
+    },
+    {
+      "category": "politics",
+      "id": "d4c0c2de76eb6eef7a34",
+      "priority": 50,
+      "published_at": "2026-11-26T15:45:59Z",
+      "region": "world",
+      "source": "Al Jazeera",
+      "summary": "Los líderes de Catar y Egipto se reunieron en El Cairo para discutir un alto el fuego en Gaza y la seguridad regional.",
+      "title": "Qatari, Egyptian leaders discuss Gaza ‘ceasefire’ and regional security",
+      "url": "https://www.aljazeera.com/news/2026/11/26/qatari-egyptian-leaders-discuss-gaza-ceasefire-and-regional-security?traffic_source=rss",
+      "why_it_matters": "Iniciativas diplomáticas clave para buscar la estabilidad en Oriente Medio."
+    },
+    {
+      "category": "economy",
+      "id": "295ae99abe28f3e538a5",
+      "priority": 50,
+      "published_at": "2026-11-26T12:26:39Z",
+      "region": "world",
+      "source": "BBC Mundo",
+      "summary": "La instalaci3n de empresas chinas como BYD en Brasil convierte al pa3s en un laboratorio de expansi3n automotriz.",
+      "title": "Efecto BYD: por qué Brasil se ha convertido en un \"laboratorio en América Latina\" para las empresas chinas",
+      "url": "https://www.bbc.com/mundo/articles/ck1ewnv46x70o?at_medium=RSS&at_campaign=rss",
+      "why_it_matters": "Muestra la creciente influencia de China en la industria automotriz de Am3rica Latina."
+    },
+    {
       "category": "other",
       "id": "b9a672bbe89247062d66",
       "priority": 50,
@@ -2773,6 +3145,18 @@
       "why_it_matters": "Muestra las tensiones sociales actuales en Europa que afectan a la comunidad de la región en el extranjero."
     },
     {
+      "category": "politics",
+      "id": "520581cd3558ea4130ad",
+      "priority": 45,
+      "published_at": "2026-11-26T15:00:47Z",
+      "region": "world",
+      "source": "Al Jazeera",
+      "summary": "Un tribunal de la ONU cuestiona la credibilidad de la decisión de UNRWA de despedir personal en Gaza sin pruebas sustentadas.",
+      "title": "UN ruling disputes Israeli allegations used to dismiss UNRWA Gaza staff",
+      "url": "https://www.aljazeera.com/news/2026/11/26/un-ruling-disputes-israeli-allegations-used-to-dismiss-unrwa-gaza-staff?traffic_source=rss",
+      "why_it_matters": "Afecta la credibilidad institucional de agencias internacionales en zonas de conflicto y la gestión humanitaria."
+    },
+    {
       "category": "security",
       "id": "399d854de7000bd89462",
       "priority": 45,
@@ -2894,6 +3278,150 @@
     },
     {
       "category": "other",
+      "id": "b998d2c9eb61d77de21e",
+      "priority": 40,
+      "published_at": "2026-11-26T19:15:20Z",
+      "region": "peru",
+      "source": "RPP Noticias",
+      "summary": "Seguimiento de las altas, bajas y movimientos en el mercado de pases de los clubes de la Liga1 2027.",
+      "title": "Fichajes de la Liga1 2027: altas y bajas en el mercado de pases del fútbol peruano",
+      "url": "https://rpp.pe/futbol/descentralizado/fichajes-de-la-liga-1-2027-contrataciones-altas-y-bajas-en-el-mercado-de-pases-de-la-liga-peruana-alianza-lima-universitario-sporting-cristal-sport-boys-cienciano-noticia-1719966",
+      "why_it_matters": "Es relevante para los hinchas del fútbol peruano que siguen la conformación de los planteles locales."
+    },
+    {
+      "category": "other",
+      "id": "a64cc9caef76a2ae3c97",
+      "priority": 40,
+      "published_at": "2026-11-26T19:14:39Z",
+      "region": "peru",
+      "source": "RPP Noticias",
+      "summary": "El técnico de la selección de Panamá, Thomas Christiansen, detalló los planes de su equipo de cara al partido amistoso contra la selección peruana el 9 de diciembre.",
+      "title": "Alista cambios para enfrentar a Perú: ¿cuál es el plan de Panamá de cara al amistoso con la 'Bicolor'?",
+      "url": "https://rpp.pe/futbol/seleccion-peruana/alista-cambios-para-enfrentar-a-peru-cual-es-el-plan-de-panama-de-cara-al-amistoso-con-la-bicolor-noticia-1719988",
+      "why_it_matters": "Interesa a los seguidores de la selección de fútbol de Perú."
+    },
+    {
+      "category": "other",
+      "id": "247567e47cb3a669ae42",
+      "priority": 40,
+      "published_at": "2026-11-26T19:07:44Z",
+      "region": "world",
+      "source": "Al Jazeera",
+      "summary": "La atención psiquiátrica está bajo escrutinio después de escándalos de abuso en Croacia y Bosnia",
+      "title": "Psychiatric care under scrutiny after abuse scandals in Croatia and Bosnia",
+      "url": "https://www.aljazeera.com/news/2026/11/26/behind-the-doors-of-psychiatric-institutions-patient-care-turns-into-abuse?traffic_source=rss",
+      "why_it_matters": "Las deficiencias en la atención psiquiátrica pueden tener consecuencias para la salud mental de los pacientes"
+    },
+    {
+      "category": "other",
+      "id": "b74d6ff35b87fcf5dcf0",
+      "priority": 40,
+      "published_at": "2026-11-26T18:22:18Z",
+      "region": "peru",
+      "source": "RPP Noticias",
+      "summary": "Panam Sports y los organizadores de Lima 2027 reafirmaron su compromiso para asegurar el éxito de los próximos Juegos Panamericanos.",
+      "title": "Panam Sports y Lima 2027 refuerzan su compromiso para superar lo alcanzado el 2019",
+      "url": "https://rpp.pe/multideportes/panamericanos/panam-sports-y-lima-2027-refuerzan-su-compromiso-para-superar-lo-alcanzado-el-2019-noticia-1719974",
+      "why_it_matters": "Los Juegos Panamericanos representan un evento deportivo de gran relevancia internacional para el país y su infraestructura."
+    },
+    {
+      "category": "politics",
+      "id": "3e0ba0e4900c118fb645",
+      "priority": 40,
+      "published_at": "2026-11-26T18:07:18Z",
+      "region": "world",
+      "source": "Al Jazeera",
+      "summary": "Líderes militares de Guinea-Bissau posponen elecciones presidenciales.",
+      "title": "Guinea-Bissau military leaders delay presidential election until 2028",
+      "url": "https://www.aljazeera.com/news/2026/11/26/guinea-bissau-presidential-election-delayed-by-two-years?traffic_source=rss",
+      "why_it_matters": "Cambios en el calendario electoral de Guinea-Bissau."
+    },
+    {
+      "category": "other",
+      "id": "4eff375b6dc5ccfd6d0e",
+      "priority": 40,
+      "published_at": "2026-11-26T17:32:21Z",
+      "region": "world",
+      "source": "Al Jazeera",
+      "summary": "Niños sirios siguen aprendiendo en medio de la guerra en Idlib.",
+      "title": "Syrian children continue learning amid the ruins of war in Idlib",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/syrian-children-continue-learning-amid-the-ruins-of-war-in-idlib?traffic_source=rss",
+      "why_it_matters": "La educación es fundamental para el futuro de los niños."
+    },
+    {
+      "category": "alert",
+      "id": "3df9ded69c92b796346d",
+      "priority": 40,
+      "published_at": "2026-11-26T16:44:06Z",
+      "region": "world",
+      "source": "RPP Noticias",
+      "summary": "Un sismo de magnitud 5.7 sacudi3 las costas de M3xico con epicentro en el mar.",
+      "title": "Sismo de magnitud 5.7 remeció las costas de México este jueves",
+      "url": "https://rpp.pe/mundo/mexico/mexico-sismo-de-magnitud-57-remecio-las-costas-del-pais-noticia-1719948",
+      "why_it_matters": "Informa sobre un evento s3smico internacional de magnitud moderada."
+    },
+    {
+      "category": "economy",
+      "id": "a5b504730699cdabf238",
+      "priority": 40,
+      "published_at": "2026-11-26T16:20:54Z",
+      "region": "world",
+      "source": "Al Jazeera",
+      "summary": "El economista Pablo Hernández de Cos fue anunciado como nuevo jefe del Banco Central Europeo tras una reunión de líderes de la eurozona.",
+      "title": "Spanish economist to become new European Central Bank chief",
+      "url": "https://www.aljazeera.com/news/2026/11/26/spanish-economist-to-become-new-european-central-bank-chief?traffic_source=rss",
+      "why_it_matters": "Afecta la política monetaria y económica global y europea."
+    },
+    {
+      "category": "politics",
+      "id": "f4eb6049ff164d31f842",
+      "priority": 40,
+      "published_at": "2026-11-26T15:53:32Z",
+      "region": "world",
+      "source": "Al Jazeera",
+      "summary": "El entrenador de fútbol Pep Guardiola pidió al mundo desobedecer el horror sobre Gaza y elogió el movimiento BDS.",
+      "title": "Pep Guardiola calls on world to ‘disobey horror’ over Gaza and praises BDS",
+      "url": "https://www.aljazeera.com/sports/2026/11/26/pep-guardiola-calls-on-world-to-disobey-horror-over-gaza-and-praises-bds?traffic_source=rss",
+      "why_it_matters": "La postura de figuras públicas amplifica el debate político global sobre el conflicto."
+    },
+    {
+      "category": "politics",
+      "id": "ddfee3a88f9574e765f2",
+      "priority": 40,
+      "published_at": "2026-11-26T15:02:50Z",
+      "region": "world",
+      "source": "Al Jazeera",
+      "summary": "Analistas indican que Roma teme que la inestabilidad en Libia afecte sus intereses energéticos y la gestión de la migración irregular tras ataques ucranianos a barcos rusos.",
+      "title": "Why is Italy angry with Ukraine for striking Russian ships off Libya?",
+      "url": "https://www.aljazeera.com/news/2026/11/26/why-is-italy-angry-with-ukraine-for-striking-russian-ships-off-libya?traffic_source=rss",
+      "why_it_matters": "Muestra las tensiones geopolíticas internacionales y su impacto en la seguridad energética y migratoria europea."
+    },
+    {
+      "category": "security",
+      "id": "be3a7765c9c31ad447ef",
+      "priority": 40,
+      "published_at": "2026-11-25T23:49:27Z",
+      "region": "world",
+      "source": "BBC Mundo",
+      "summary": "Una ex agente del FBI relata un caso complejo sobre el robo al hermano de un autor de un tiroteo masivo.",
+      "title": "\"Pasé décadas como agente del FBI y este es el caso que no pude dejar atrás\"",
+      "url": "https://www.bbc.com/mundo/articles/c6174wy0l54eo?at_medium=RSS&at_campaign=rss",
+      "why_it_matters": "Ofrece una perspectiva humana y detallada sobre investigaciones criminales de alto perfil en Estados Unidos."
+    },
+    {
+      "category": "other",
+      "id": "9c4d78aac9bae15c8830",
+      "priority": 40,
+      "published_at": "2026-11-25T23:24:27Z",
+      "region": "world",
+      "source": "BBC Mundo",
+      "summary": "Falleció a los 65 años el guitarrista de la banda Duran Duran tras recibir tratamiento contra el cáncer de próstata.",
+      "title": "Muere a los 65 años el guitarrista de la legendaria banda de pop Duran Duran",
+      "url": "https://www.bbc.com/mundo/articles/cmwy8gjdgwy6o?at_medium=RSS&at_campaign=rss",
+      "why_it_matters": "Es un suceso relevante para la historia de la música pop internacional y los seguidores de la banda."
+    },
+    {
+      "category": "other",
       "id": "b1e7ea5cb168fa1a82f5",
       "priority": 40,
       "published_at": "2026-11-25T19:49:50Z",
@@ -2951,6 +3479,18 @@
       "title": "Dragón Dorado 2026: China y Camboya inician dos semanas de maniobras militares con 3 000 efectivos [FOTOS]",
       "url": "https://rpp.pe/mundo/asia/dragon-dorado-2026-china-y-camboya-inician-dos-semanas-de-maniobras-militares-con-3-000-efectivos-fotos-noticia-1719753",
       "why_it_matters": "Muestra la cooperación militar en la región asiática y su impacto en la geopolítica global."
+    },
+    {
+      "category": "other",
+      "id": "44351f45367287229b5f",
+      "priority": 40,
+      "published_at": "2026-11-25T17:28:29Z",
+      "region": "peru",
+      "source": "RPP Noticias",
+      "summary": "Artículo informativo sobre mitos y realidades en torno a los cólicos menstruales, así como alternativas para aliviar las molestias cotidianas.",
+      "title": "Cólicos menstruales: ¿te han contado alguno de estos mitos?",
+      "url": "https://rpp.pe/campanas/contenido-patrocinado/colicos-menstruales-te-han-contado-alguno-de-estos-mitos-noticia-1719744",
+      "why_it_matters": "Promueve la educación en salud y bienestar general para la población femenina."
     },
     {
       "category": "politics",
@@ -3974,6 +4514,102 @@
     },
     {
       "category": "other",
+      "id": "c0c0c649b444be6a17cd",
+      "priority": 30,
+      "published_at": "2026-11-26T19:30:04Z",
+      "region": "peru",
+      "source": "RPP Noticias",
+      "summary": "El club Sport Huancayo renovó el contrato del delantero Daniel Porozo antes de la semifinal contra Universitario.",
+      "title": "Confirmado: previo a la semifinal contra la 'U', Sport Huancayo le renovó al delantero Daniel Porozo",
+      "url": "https://rpp.pe/futbol/descentralizado/sport-huancayo-vs-universitario-daniel-porozo-renovo-contrato-previo-a-semifinal-ida-de-liga1-2026-noticia-1719990",
+      "why_it_matters": "Informa sobre movimientos en el fútbol profesional peruano."
+    },
+    {
+      "category": "other",
+      "id": "aea2a1359bc7c24967e1",
+      "priority": 30,
+      "published_at": "2026-11-26T17:50:54Z",
+      "region": "world",
+      "source": "RPP Noticias",
+      "summary": "Lionel Messi fue confirmado para participar en el partido de despedida de Carlos Tevez en Argentina.",
+      "title": "'Leo' regresa a la Bombonera: Messi jugará en Argentina en el partido de despedida de Carlos Tevez",
+      "url": "https://rpp.pe/futbol/futbol-mundial/lionel-messi-jugara-en-partido-despedida-de-carlos-tevez-en-la-bombonera-noticia-1719962",
+      "why_it_matters": "Es un evento deportivo de interés internacional que involucra a una de las máximas figuras del fútbol."
+    },
+    {
+      "category": "other",
+      "id": "a6aa97bca2767948fb1a",
+      "priority": 30,
+      "published_at": "2026-11-26T17:37:20Z",
+      "region": "peru",
+      "source": "RPP Noticias",
+      "summary": "Las selecciones de fútbol femenino de Perú y República Dominicana se enfrentan en un partido amistoso internacional en la Videnita de Chincha.",
+      "title": "Perú vs República Dominicana: ¿a qué hora juegan y dónde ver el amistoso internacional femenino?",
+      "url": "https://rpp.pe/futbol/seleccion-peruana/peru-vs-republica-dominicana-en-vivo-a-que-hora-juegan-y-donde-ver-amistoso-internacional-femenino-link-bicolor-youtube-gratis-partidos-de-hoy-noticia-1719961",
+      "why_it_matters": "Mantiene informados a los seguidores del deporte nacional y del fútbol femenino."
+    },
+    {
+      "category": "politics",
+      "id": "fd2ae48e3bb6520f7d66",
+      "priority": 30,
+      "published_at": "2026-11-26T15:57:49Z",
+      "region": "world",
+      "source": "Al Jazeera",
+      "summary": "Análisis sobre cómo la crisis financiera en Francia está moldeando las votaciones del próximo año.",
+      "title": "Why is France roiling?",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/why-is-france-roiling?traffic_source=rss",
+      "why_it_matters": "Muestra la inestabilidad política y económica en una potencia europea."
+    },
+    {
+      "category": "politics",
+      "id": "a0fbe8398564906f40da",
+      "priority": 30,
+      "published_at": "2026-11-26T13:31:03Z",
+      "region": "world",
+      "source": "BBC Mundo",
+      "summary": "La exreportera mexicana Inés Gómez Mont fue enviada a España tras salir voluntariamente de EE.UU.",
+      "title": "Inés Gómez Mont, la exestrella de TV mexicana prófuga de la justicia cuya huida a España causó un roce diplomático entre los gobiernos de Trump y Sheinbaum",
+      "url": "https://www.bbc.com/mundo/articles/crjeqy9ynvnyo?at_medium=RSS&at_campaign=rss",
+      "why_it_matters": "Es un caso de interés internacional sobre fugitivos de la justicia y relaciones diplomáticas."
+    },
+    {
+      "category": "other",
+      "id": "74c46d3c3b7e3c45e266",
+      "priority": 30,
+      "published_at": "2026-11-26T11:37:59Z",
+      "region": "world",
+      "source": "BBC Mundo",
+      "summary": "Un debate sobre el derecho legal a retirar el apellido paterno o materno en casos de ausencia de relación y sufrimiento emocional.",
+      "title": "\"Si puedes reconocer como padre a alguien sin vínculo biológico, también es justo que puedas dejar de hacerlo si no hay relación\"",
+      "url": "https://www.bbc.com/mundo/articles/cwm2m625qej3o?at_medium=RSS&at_campaign=rss",
+      "why_it_matters": "Plantea discusiones sobre la legislación familiar y el bienestar psicológico de los hijos."
+    },
+    {
+      "category": "politics",
+      "id": "ac61cb3a03e734967788",
+      "priority": 30,
+      "published_at": "2026-11-26T04:52:47Z",
+      "region": "world",
+      "source": "BBC Mundo",
+      "summary": "Espa3a alcanza los casi 50 millones de habitantes con la inmigraci3n como tema electoral clave.",
+      "title": "La España de los (casi) 50 millones: cómo la inmigración ha transformado el país en la última década y se ha convertido en tema clave de las elecciones",
+      "url": "https://www.bbc.com/mundo/articles/ckq5vgpwwq76o?at_medium=RSS&at_campaign=rss",
+      "why_it_matters": "Refleja los cambios demogr3ficos y debates pol3ticos actuales en Europa."
+    },
+    {
+      "category": "environment",
+      "id": "bc3e501ef8d652e3ef4f",
+      "priority": 30,
+      "published_at": "2026-11-26T02:44:48Z",
+      "region": "world",
+      "source": "BBC Mundo",
+      "summary": "Nuevas imágenes revelan un cráter del tamaño de un estadio en la superficie del asteroide impactado deliberadamente por una nave espacial para probar defensas planetarias.",
+      "title": "Las imágenes del asteroide seleccionado para poner a prueba las defensas de la Tierra revelan un cráter del tamaño de un estadio",
+      "url": "https://www.bbc.com/mundo/articles/ck1l0j9lg0l7o?at_medium=RSS&at_campaign=rss",
+      "why_it_matters": "Representa un avance en las investigaciones sobre la capacidad humana para desviar asteroides y proteger la Tierra."
+    },
+    {
+      "category": "other",
       "id": "d49abdbe5f3786c59193",
       "priority": 30,
       "published_at": "2026-11-25T19:50:03Z",
@@ -4610,6 +5246,18 @@
     },
     {
       "category": "other",
+      "id": "adffe63fc194324d9673",
+      "priority": 25,
+      "published_at": "2026-11-26T17:33:08Z",
+      "region": "world",
+      "source": "BBC Mundo",
+      "summary": "Un migrante en EE.UU. fue detenido por ICE pocos días después de ganar un premio de lotería.",
+      "title": "\"La suerte se le terminó\": el migrante que fue detenido por ICE en EE.UU. días después de ganar la lotería",
+      "url": "https://www.bbc.com/mundo/articles/c6lym4rjyp3go?at_medium=RSS&at_campaign=rss",
+      "why_it_matters": "Ilustra la situación de vulnerabilidad de los migrantes indocumentados ante las autoridades migratorias."
+    },
+    {
+      "category": "other",
       "id": "dfa2f6c3eb514949851b",
       "priority": 25,
       "published_at": "2026-11-21T11:04:10Z",
@@ -4619,6 +5267,66 @@
       "title": "Migrants caravan in Mexico walks towards US border",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/migrants-caravan-in-mexico-walks-towards-us-border?traffic_source=rss",
       "why_it_matters": "Ilumina la dinámica migratoria en el continente americano, aunque de impacto limitado para el lector peruano."
+    },
+    {
+      "category": "other",
+      "id": "b4d15e018feaf3e325e4",
+      "priority": 20,
+      "published_at": "2026-11-26T19:00:13Z",
+      "region": "world",
+      "source": "RPP Noticias",
+      "summary": "El Milan derrotó 4-2 a Olympiacos en la Europa League tras remontar un 2-0 en contra.",
+      "title": "¡Remontada espectacular! Milan superó 4-2 a Olympiacos en la Europa League 2026",
+      "url": "https://rpp.pe/futbol/futbol-mundial/milan-vs-olympiacos-en-vivo-a-que-hora-juegan-y-donde-ver-fecha-5-fase-liga-europa-league-via-espn-partidos-de-hoy-noticia-1719728",
+      "why_it_matters": "Es de interés para los aficionados al fútbol internacional y las competiciones europeas."
+    },
+    {
+      "category": "other",
+      "id": "e3955aeb2e6e0b40cff1",
+      "priority": 20,
+      "published_at": "2026-11-26T16:54:43Z",
+      "region": "world",
+      "source": "RPP Noticias",
+      "summary": "Las selecciones de Venezuela y México se enfrentan en Catar por la fecha 3 del Mundial Sub 17 2026.",
+      "title": "Venezuela vs México: ¿a qué hora juegan y dónde ver el Mundial Sub 17 2026?",
+      "url": "https://rpp.pe/futbol/futbol-mundial/venezuela-vs-mexico-a-que-hora-juegan-y-donde-ver-en-vivo-el-mundial-sub-17-2026-noticia-1719943",
+      "why_it_matters": "Informa sobre el desarrollo de un torneo internacional de fútbol juvenil."
+    },
+    {
+      "category": "environment",
+      "id": "82759df65e994e8b56b8",
+      "priority": 20,
+      "published_at": "2026-11-26T15:56:39Z",
+      "region": "world",
+      "source": "Al Jazeera",
+      "summary": "Un petrolero de diésel zozobró cerca de Ibiza, dejando un miembro de la tripulación muerto.",
+      "title": "Diesel tanker capsizes near Ibiza, killing crew member",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/aje-onl-nf_loaded-diesel-tanker-capsizes-off-ibiza-killing-one-261126?traffic_source=rss",
+      "why_it_matters": "Es un incidente de seguridad marítima y ambiental en España."
+    },
+    {
+      "category": "other",
+      "id": "bf799e7383cdc016a739",
+      "priority": 20,
+      "published_at": "2026-11-26T12:49:04Z",
+      "region": "world",
+      "source": "BBC Mundo",
+      "summary": "Artículo sobre la evolución histórica y simbólica de la figura de Satanás en el cristianismo.",
+      "title": "El papa Francisco y el diablo: cómo el cristianismo moldeó la figura de satán para combatir a otras religiones",
+      "url": "https://www.bbc.com/mundo/articles/c6zjrm77lrgwo?at_medium=RSS&at_campaign=rss",
+      "why_it_matters": "Ofrece una perspectiva cultural y religiosa sobre la historia de las creencias."
+    },
+    {
+      "category": "other",
+      "id": "c132b0a7b3143b8d880b",
+      "priority": 20,
+      "published_at": "2026-11-26T10:33:47Z",
+      "region": "world",
+      "source": "BBC Mundo",
+      "summary": "Estudios muestran que el cerebro humano tiene una capacidad limitada para realizar varias tareas a la vez, lo que aumenta la propensión a la distracción.",
+      "title": "Por qué nuestros cerebros no están preparados para hacer varias tareas a la vez (aunque creas que lo haces bien)",
+      "url": "https://www.bbc.com/mundo/articles/cw808pxm2ndzo?at_medium=RSS&at_campaign=rss",
+      "why_it_matters": "Ayuda a comprender los límites de la productividad y la concentración en la vida diaria."
     },
     {
       "category": "other",
@@ -4643,6 +5351,18 @@
       "title": "Senegal deny Morocco’s allegations of ‘contact’ with CAS amid AFCON row",
       "url": "https://www.aljazeera.com/sports/2026/11/25/senegal-deny-moroccos-allegations-of-contact-with-cas-amid-afcon-row?traffic_source=rss",
       "why_it_matters": "Es un conflicto deportivo internacional de interés limitado para la audiencia general en el Perú."
+    },
+    {
+      "category": "other",
+      "id": "967c12d9814bb7a396ec",
+      "priority": 20,
+      "published_at": "2026-11-25T12:02:04Z",
+      "region": "peru",
+      "source": "RPP Noticias",
+      "summary": "Estrenos de películas y series en plataformas de streaming disponibles hoy en Perú.",
+      "title": "Estrenos de Películas hoy 26 de noviembre del 2026",
+      "url": "https://rpp.pe/cine/cartelera/estrenos-de-peliculas-hoy-25-de-noviembre-del-2026-noticia-1719655",
+      "why_it_matters": "Permite conocer la oferta de entretenimiento para el público local en plataformas digitales."
     },
     {
       "category": "other",
@@ -4763,6 +5483,18 @@
       "title": "Arsenal vs Borussia Dortmund LIVE: UEFA Champions League",
       "url": "https://www.aljazeera.com/sports/liveblog/2026/11/24/arsenal-vs-borussia-dortmund-live-uefa-champions-league?traffic_source=rss",
       "why_it_matters": "Es un evento deportivo internacional de interés general, aunque de menor relevancia directa para la agenda local peruana."
+    },
+    {
+      "category": "other",
+      "id": "20005ef5210510d5204e",
+      "priority": 20,
+      "published_at": "2026-11-24T10:36:34Z",
+      "region": "world",
+      "source": "BBC Mundo",
+      "summary": "Existen factores biológicos que impulsan a buscar alimentos dulces o salados antes de dormir, incluso estando satisfechos.",
+      "title": "Por qué nos tienta comer algo dulce o salado antes de ir a dormir aunque estemos satisfechos (y cómo no caer en la tentación)",
+      "url": "https://www.bbc.com/mundo/articles/ckg5rvzn0j68o?at_medium=RSS&at_campaign=rss",
+      "why_it_matters": "Ayuda a comprender los hábitos de sueño y alimentación nocturna para mejorar la salud personal."
     },
     {
       "category": "other",
@@ -4946,6 +5678,18 @@
     },
     {
       "category": "other",
+      "id": "14e0880c361af732aecb",
+      "priority": 15,
+      "published_at": "2026-11-26T19:45:05Z",
+      "region": "world",
+      "source": "RPP Noticias",
+      "summary": "Bournemouth venció 2-1 a Celta en un partido de la UEFA Europa League.",
+      "title": "Europa League: Bournemouth lo dio vuelta ante Celta y venció por 2 a 1",
+      "url": "https://rpp.pe/futbol/ligas-internacionales/europa-league-se-enfrentan-celta-y-bournemouth-por-la-fecha-5-noticia-1719673",
+      "why_it_matters": "Mantiene informados a los seguidores del fútbol europeo y de los torneos de la UEFA."
+    },
+    {
+      "category": "other",
       "id": "9d4044691283f07084bf",
       "priority": 15,
       "published_at": "2026-11-24T17:41:26Z",
@@ -4991,6 +5735,18 @@
       "title": "Estrenos de Películas hoy 19 de noviembre del 2026",
       "url": "https://rpp.pe/cine/cartelera/estrenos-de-peliculas-hoy-19-de-noviembre-del-2026-noticia-1718521",
       "why_it_matters": "Informa al público sobre las nuevas opciones de entretenimiento en streaming en el país."
+    },
+    {
+      "category": "other",
+      "id": "27636f25f842e93fd0d3",
+      "priority": 10,
+      "published_at": "2026-11-26T15:27:48Z",
+      "region": "world",
+      "source": "BBC Mundo",
+      "summary": "El pavo tradicional de la cena de Acción de Gracias en Estados Unidos tiene su origen en la domesticación realizada en Mesoamérica, México y Centroamérica.",
+      "title": "El poco conocido origen mexicano del pavo que se come en Acción de Gracias en Estados Unidos",
+      "url": "https://www.bbc.com/mundo/articles/cyv7r0m6g14o?at_medium=RSS&at_campaign=rss",
+      "why_it_matters": "Ofrece contexto histórico y cultural sobre una tradición gastronómica ampliamente conocida."
     },
     {
       "category": "other",
@@ -5137,7 +5893,7 @@
       "why_it_matters": "Ofrece una perspectiva humana sobre condiciones médicas poco habladas y la salud mental."
     }
   ],
-  "generated_at": "2026-11-25T20:20:53.080668Z",
+  "generated_at": "2026-11-26T19:56:13.076318Z",
   "schema_version": 1,
   "source_failures": []
 }
