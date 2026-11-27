@@ -25,6 +25,18 @@
       "why_it_matters": "El ataque contra infraestructura de ayuda agrava el costo civil y reduce las señales de desescalada."
     },
     {
+      "category": "alert",
+      "id": "25a8e15c1fa07923453e",
+      "priority": 90,
+      "published_at": "2026-11-27T17:42:36Z",
+      "region": "peru",
+      "source": "RPP Noticias",
+      "summary": "La Marina de Guerra advierte que los oleajes anómalos podrían triplicar la altura habitual de las olas, intensificados por El Niño y la pleamar.",
+      "title": "Oleajes anómalos podrían triplicar la altura habitual de las olas, advierte la Marina: ¿qué zonas serán las más afectadas?",
+      "url": "https://rpp.pe/peru/actualidad/oleajes-anomalos-podrian-triplicar-la-altura-habitual-de-las-olas-advierte-marina-que-zonas-seran-las-mas-afectadas-noticia-1720138",
+      "why_it_matters": "Representa un riesgo inminente para las zonas costeras y las actividades marítimas, exigiendo precauciones urgentes para la población."
+    },
+    {
       "category": "services",
       "id": "ba5736d01242ba6cbf2e",
       "priority": 90,
@@ -107,6 +119,102 @@
       "title": "Senamhi advierte aumento de lluvias intensas y cambios de temperatura",
       "url": "https://rpp.pe/peru/actualidad/senamhi-lluvias-intensas-se-incrementaran-en-el-norte-del-pais-noticia-1715605",
       "why_it_matters": "La combinación de lluvia y drenaje vulnerable eleva el riesgo de interrupciones y daños."
+    },
+    {
+      "category": "services",
+      "id": "69542862f6e7be7b4497",
+      "priority": 85,
+      "published_at": "2026-11-27T19:06:11Z",
+      "region": "peru",
+      "source": "RPP Noticias",
+      "summary": "El Hospital Regional del Cusco colapsa con 120 pacientes pese a tener una capacidad de 74, debido a la falta de operatividad del Hospital Antonio Lorena.",
+      "title": "Hospital Regional del Cusco colapsa por falta de operatividad del Hospital Antonio Lorena: \"Situación es caótica\", dice jefa de Emergencias",
+      "url": "https://rpp.pe/peru/cusco/hospital-regional-del-cusco-colapsa-por-falta-de-operatividad-del-hospital-antonio-lorena-noticia-1720158",
+      "why_it_matters": "Afecta directamente la salud pública y la calidad de atención médica en la región Cusco."
+    },
+    {
+      "category": "environment",
+      "id": "c53bd9d4a2fdce06321f",
+      "priority": 85,
+      "published_at": "2026-11-27T18:45:53Z",
+      "region": "peru",
+      "source": "RPP Noticias",
+      "summary": "Vecinos del sector UPIS Salitral de los Pinos en Piura exigen el envío de motobombas y maquinaria tras quedar inundados por aguas sucias a causa de intensas lluvias.",
+      "title": "Piura: vecinos del distrito 26 de Octubre exigen apoyo con motobombas tras inundaciones por intensas lluvias [VIDEO]",
+      "url": "https://rpp.pe/rotafono/emergencias/piura-vecinos-del-distrito-26-de-octubre-exigen-apoyo-con-motobombas-tras-inundaciones-por-intensas-lluvias-video-noticia-1720120",
+      "why_it_matters": "Afecta directamente la salud y la seguridad de los habitantes locales, requiriendo atención urgente de las autoridades."
+    },
+    {
+      "category": "environment",
+      "id": "911ba3bf70b515806915",
+      "priority": 85,
+      "published_at": "2026-11-27T18:39:23Z",
+      "region": "peru",
+      "source": "RPP Noticias",
+      "summary": "El Senamhi informó que las lluvias en Piura superaron los valores habituales y se proyecta que alcancen registros cercanos a los 200 milímetros.",
+      "title": "Senamhi: lluvias en Piura superaron valores habituales y se espera que sobrepasen registros cercanos a los 200 milímetros",
+      "url": "https://rpp.pe/peru/piura/senamhi-lluvias-en-piura-superaron-valores-habituales-y-se-espera-que-sobrepasen-registros-cercanos-a-los-200-milimetros-noticia-1720143",
+      "why_it_matters": "Alerta a la población local sobre riesgos de inundaciones y medidas de prevención necesarias en el norte del país."
+    },
+    {
+      "category": "environment",
+      "id": "abed69e1326a860246bb",
+      "priority": 85,
+      "published_at": "2026-11-27T18:14:16Z",
+      "region": "peru",
+      "source": "RPP Noticias",
+      "summary": "Vecinos de la Zona Industrial en Piura exigen motobombas para extraer el agua acumulada tras las fuertes lluvias que inundaron zonas cercanas.",
+      "title": "Piura: vecinos de la Zona Industrial exigen apoyo con motobombas para extraer agua acumulada [VIDEO]",
+      "url": "https://rpp.pe/rotafono/emergencias/piura-vecinos-de-la-zona-industrial-exigen-apoyo-con-motobombas-para-extraer-agua-acumulada-tras-intensas-lluvias-por-fenomeno-el-nino-video-noticia-1720145",
+      "why_it_matters": "Atiende una emergencia climática y de infraestructura que afecta la vida y seguridad de los ciudadanos locales."
+    },
+    {
+      "category": "environment",
+      "id": "be3dbac4a3de2a61ae72",
+      "priority": 85,
+      "published_at": "2026-11-27T16:17:18Z",
+      "region": "peru",
+      "source": "RPP Noticias",
+      "summary": "Varias urbanizaciones en Piura, como El Chilcal, Los Bancarios y Santa Ana, quedaron completamente anegadas tras una intensa lluvia de 12 horas.",
+      "title": "Piura bajo el agua: urbanizaciones El Chilcal, Los Bancarios y Santa Ana lucen completamente anegadas [VIDEO]",
+      "url": "https://rpp.pe/peru/piura/lluvias-en-piura-urbanizaciones-el-chilcal-los-bancarios-y-santa-anta-lucen-completamente-anegadas-video-noticia-1720130",
+      "why_it_matters": "Afecta directamente la infraestructura y la seguridad de los habitantes locales, evidenciando la vulnerabilidad ante eventos climáticos extremos."
+    },
+    {
+      "category": "security",
+      "id": "e8996d4bf81880dd6e83",
+      "priority": 85,
+      "published_at": "2026-11-27T15:46:52Z",
+      "region": "peru",
+      "source": "RPP Noticias",
+      "summary": "Delincuentes armados interceptaron una camioneta en la Costa Verde y robaron joyas, dejando dos heridos por bala.",
+      "title": "Ataque a balazos contra camioneta en la Costa Verde: lo que se sabe del robo de joyas en la subida Santa Rosa",
+      "url": "https://rpp.pe/peru/callao/ataque-a-balazos-contra-camioneta-en-la-costa-verde-lo-que-se-sabe-del-robo-de-joyas-en-la-subida-santa-rosa-noticia-1720121",
+      "why_it_matters": "Evidencia los altos niveles de delincuencia armada y la inseguridad ciudadana en vías principales de Lima."
+    },
+    {
+      "category": "alert",
+      "id": "ee991da1a9659ea8ab33",
+      "priority": 85,
+      "published_at": "2026-11-27T15:42:46Z",
+      "region": "peru",
+      "source": "RPP Noticias",
+      "summary": "Keiko Fujimori suspendió su viaje a Colombia para atender la emergencia por lluvias e inundaciones en Piura.",
+      "title": "Keiko Fujimori suspende su viaje a Colombia ante emergencia por lluvias e inundaciones en Piura",
+      "url": "https://rpp.pe/politica/gobierno/keiko-fujimori-suspende-su-pedido-para-viajar-a-colombia-tras-emergencia-por-lluvias-noticia-1720123",
+      "why_it_matters": "Permite enfocar los esfuerzos del Ejecutivo en la crisis climática que afecta a la región norte del país."
+    },
+    {
+      "category": "security",
+      "id": "a09f44101f0cea3ddca8",
+      "priority": 85,
+      "published_at": "2026-11-27T15:06:30Z",
+      "region": "peru",
+      "source": "RPP Noticias",
+      "summary": "Desarticulan en Villa María del Triunfo a la banda criminal 'Los Malditos de Nueva Generación', dedicada a la extorsión de transportistas.",
+      "title": "VMT: desarticulan banda 'Los Malditos de Nueva Generación' que mantenía extorsionados a transportistas",
+      "url": "https://rpp.pe/lima/policiales/vmt-desarticulan-banda-los-malditos-de-nueva-generacion-que-extorsionaba-a-transportistas-noticia-1720116",
+      "why_it_matters": "La criminalidad y la extorsión al transporte son problemas críticos de seguridad ciudadana en Lima."
     },
     {
       "category": "economy",
@@ -383,6 +491,42 @@
       "title": "Gobierno anuncia reclasificación de internos y traslados a Challapalca",
       "url": "https://rpp.pe/peru/actualidad/keiko-fujimori-anuncia-reclasificacion-de-internos-y-traslado-de-los-mas-peligrosos-a-challapalca-noticia-1715637",
       "why_it_matters": "Anticipa cambios en política penitenciaria y abre preguntas sobre seguridad, capacidad y supervisión."
+    },
+    {
+      "category": "economy",
+      "id": "7f5f03a857dd56d3e64d",
+      "priority": 80,
+      "published_at": "2026-11-27T17:57:13Z",
+      "region": "peru",
+      "source": "RPP Noticias",
+      "summary": "La SBS convoca a licitación para elegir a la AFP que administrará los fondos de nuevos afiliados a partir de junio de 2027.",
+      "title": "SBS convoca a licitación para elegir a la AFP que administrará los fondos de nuevos afiliados desde junio de 2027",
+      "url": "https://rpp.pe/economia/economia/sbs-convoca-a-licitacion-para-elegir-a-la-afp-que-administrara-los-fondos-de-nuevos-afiliados-desde-junio-de-2027-noticia-1720153",
+      "why_it_matters": "Define la entidad que manejará los fondos previsionales de los nuevos trabajadores en el sistema privado peruano bajo una menor comisión."
+    },
+    {
+      "category": "security",
+      "id": "c8254cb1051e08cc0ca0",
+      "priority": 80,
+      "published_at": "2026-11-27T17:40:16Z",
+      "region": "peru",
+      "source": "RPP Noticias",
+      "summary": "La PNP halló una pistola robada dentro del vehículo atacado en la Costa Verde y confirmó las nacionalidades de los afectados.",
+      "title": "Asalto en la Costa Verde: PNP halló pistola reportada como robada dentro del automóvil atacado [VIDEO]",
+      "url": "https://rpp.pe/peru/callao/costa-verde-pnp-hallo-pistola-reportada-como-robada-dentro-del-automovil-atacado-video-noticia-1720139",
+      "why_it_matters": "Aporta detalles clave sobre las investigaciones policiales en torno al asalto armado en la capital."
+    },
+    {
+      "category": "economy",
+      "id": "bd48e5317d630eca84e3",
+      "priority": 80,
+      "published_at": "2026-11-27T17:15:48Z",
+      "region": "peru",
+      "source": "RPP Noticias",
+      "summary": "Osinergmin flexibiliza las normas de transporte y almacenamiento de combustibles para prevenir el desabastecimiento ante el riesgo del fenómeno El Niño.",
+      "title": "Osinergmin flexibiliza reglas para transportar y almacenar combustibles ante riesgo de desabastecimiento por El Niño",
+      "url": "https://rpp.pe/economia/economia/osinergmin-flexibiliza-reglas-para-transportar-y-almacenar-combustibles-ante-riesgo-de-desabastecimiento-por-el-nino-noticia-1720137",
+      "why_it_matters": "Garantiza el suministro continuo de energía y combustibles en el país durante situaciones de emergencia climática."
     },
     {
       "category": "security",
@@ -755,6 +899,66 @@
       "title": "MEF y Congreso discrepan sobre puntos clave del Presupuesto 2027",
       "url": "https://rpp.pe/economia/economia/presupuesto-2027-canon-minero-freno-a-mas-universidades-y-candados-al-gasto-los-desacuerdos-entre-el-mef-y-congreso-noticia-1715599",
       "why_it_matters": ""
+    },
+    {
+      "category": "environment",
+      "id": "ac53dce3b234ec1be191",
+      "priority": 75,
+      "published_at": "2026-11-27T19:17:21Z",
+      "region": "peru",
+      "source": "RPP Noticias",
+      "summary": "Lluvias intensas en Piura provocan la activaci3n de quebradas que mantienen bloqueada la Ruta Nacional 1NR en Morrop3n, afectando el acceso de maquinaria y el tránsito hacia Ayabaca y Huancabamba.",
+      "title": "Lluvias en Piura: activación de quebradas mantiene bloqueada la Ruta Nacional 1NR en Morropón",
+      "url": "https://rpp.pe/lima/actualidad/lluvias-en-piura-activacion-de-quebradas-mantiene-bloqueada-la-ruta-nacional-1nr-en-morropon-noticia-1720161",
+      "why_it_matters": "Afecta la conectividad vial y el transporte en la región norte del país, requiriendo atención urgente para la población y el abastecimiento."
+    },
+    {
+      "category": "environment",
+      "id": "0e0c3d8502ee3e663851",
+      "priority": 75,
+      "published_at": "2026-11-27T19:08:49Z",
+      "region": "peru",
+      "source": "RPP Noticias",
+      "summary": "Chiclayo registra nueve puntos críticos por acumulación de agua de lluvia, destacando distritos como Olmos, Motupe y Jayanca con altos niveles de precipitaciones según el Senamhi.",
+      "title": "Chiclayo: la ciudad tiene nueve puntos críticos por acumulación de agua de lluvia",
+      "url": "https://rpp.pe/peru/actualidad/chiclayo-la-ciudad-tiene-nueve-puntos-criticos-por-acumulacion-de-agua-de-lluvia-noticia-1720162",
+      "why_it_matters": "Permite conocer las zonas más vulnerables de la región norteña ante las lluvias actuales."
+    },
+    {
+      "category": "politics",
+      "id": "7679ad13ae92640cb0e8",
+      "priority": 75,
+      "published_at": "2026-11-27T18:24:39Z",
+      "region": "peru",
+      "source": "RPP Noticias",
+      "summary": "La mandataria participó en el Gabinete Binacional Perú-Bolivia junto a Rodrigo Paz, ofreciendo los puertos peruanos al comercio vecino y agradeciendo la captura de alias 'Jhonsson Pulpo'.",
+      "title": "Keiko Fujimori en Gabinete Binacional Perú-Bolivia: \"Es el inicio de un fortalecimiento de 200 años de amistad que nunca debió cortarse\"",
+      "url": "https://rpp.pe/politica/gobierno/keiko-fujimori-en-gabinete-binacional-peru-bolivia-es-el-inicio-de-un-fortalecimiento-de-200-anos-de-amistad-que-nunca-debio-cortarse-noticia-1720151",
+      "why_it_matters": "Define la relación bilateral con Bolivia y destaca acuerdos de seguridad y comercio estratégico."
+    },
+    {
+      "category": "politics",
+      "id": "5eb70a35cbb42f6d209e",
+      "priority": 75,
+      "published_at": "2026-11-27T15:33:47Z",
+      "region": "peru",
+      "source": "RPP Noticias",
+      "summary": "La diputada Jessica Guevara rechazó ampliar el Reinfo y advirtió sobre los graves riesgos de la minería ilegal para el agua y la agricultura en Cajamarca.",
+      "title": "Diputada Jessica Guevara rechaza ampliar el Reinfo y advierte problemas en Cajamarca por actividad minera ilegal",
+      "url": "https://rpp.pe/politica/congreso/diputada-jessica-guevara-rechaza-ampliar-el-reinfo-y-advierte-problemas-en-cajamarca-por-actividad-minera-ilegal-noticia-1720103",
+      "why_it_matters": "Afecta directamente la estabilidad ambiental y económica de regiones peruanas y marca el debate legislativo sobre la formalización minera."
+    },
+    {
+      "category": "services",
+      "id": "79015bc0e83ac4ca6e3b",
+      "priority": 75,
+      "published_at": "2026-11-27T10:00:38Z",
+      "region": "peru",
+      "source": "RPP Noticias",
+      "summary": "Sedapal programó cortes de agua en diversos distritos de Lima para la fecha, afectando temporalmente el suministro básico.",
+      "title": "Corte de agua en Lima hoy 27 de noviembre: Distritos y horarios afectados",
+      "url": "https://rpp.pe/lima/obras/corte-de-agua-en-lima-hoy-27-de-noviembre-distritos-y-horarios-afectados-noticia-1720076",
+      "why_it_matters": "Impacta de manera directa en la vida diaria y actividades cotidianas de los ciudadanos en las zonas afectadas."
     },
     {
       "category": "economy",
@@ -1175,6 +1379,30 @@
       "title": "Usuarios retiran US$3,600 millones de Binance tras un gran hackeo",
       "url": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o",
       "why_it_matters": ""
+    },
+    {
+      "category": "economy",
+      "id": "bd9055e6040331242fff",
+      "priority": 70,
+      "published_at": "2026-11-27T11:05:39Z",
+      "region": "peru",
+      "source": "RPP Noticias",
+      "summary": "El tipo de cambio del dólar en el Perú para el 27 de noviembre de 2026 se sitúa en S/3.47 según el Banco Central de Reserva.",
+      "title": "Precio del dólar Perú y tipo de cambio hoy 27 de noviembre del 2026",
+      "url": "https://rpp.pe/economia/economia/precio-del-dolar-peru-y-tipo-de-cambio-hoy-27-de-noviembre-del-2026-noticia-1720086",
+      "why_it_matters": "Es información clave para transacciones financieras, importaciones y la economía diaria en el país."
+    },
+    {
+      "category": "politics",
+      "id": "de86d6576c4fdcd906a7",
+      "priority": 70,
+      "published_at": "2026-11-26T22:58:00Z",
+      "region": "world",
+      "source": "BBC Mundo",
+      "summary": "Mensajes desesperados de mujeres condenadas a muerte en Irán tras participar en protestas antigubernamentales.",
+      "title": "Los desesperados mensajes de mujeres que están en el corredor de la muerte en Irán por participar en protestas contra el gobierno",
+      "url": "https://www.bbc.com/mundo/articles/cj62p7wv9qnxo?at_medium=RSS&at_campaign=rss",
+      "why_it_matters": "Evidencia la grave situación de los derechos humanos y la represión a disidentes en dicho país."
     },
     {
       "category": "services",
@@ -1681,6 +1909,18 @@
       "why_it_matters": ""
     },
     {
+      "category": "security",
+      "id": "79a82383ab4d48928f14",
+      "priority": 65,
+      "published_at": "2026-11-27T17:05:27Z",
+      "region": "peru",
+      "source": "RPP Noticias",
+      "summary": "El abogado de Hermes calificó de irregular la investigación fiscal del caso 'Los Herméticos del Caudal' debido a la falta de notificación a las empresas.",
+      "title": "Abogado de Hermes cuestiona allanamientos de la Fiscalía y dice que investigación es \"irregular a todas luces\"",
+      "url": "https://rpp.pe/lima/judiciales/abogado-de-hermes-cuestiona-allanamientos-de-la-fiscalia-y-dice-que-investigacion-es-irregular-a-todas-luces-noticia-1720125",
+      "why_it_matters": "Involucra a empresas clave del sector de seguridad y transporte de valores en indagaciones legales de alto perfil."
+    },
+    {
       "category": "economy",
       "id": "44b534abd823a8a7d145",
       "priority": 65,
@@ -1799,6 +2039,42 @@
       "title": "Alerta nuclear falsa tras hackeo de una aplicación en Ucrania",
       "url": "https://www.bbc.co.uk/news/articles/cwx28mngxz8do",
       "why_it_matters": ""
+    },
+    {
+      "category": "environment",
+      "id": "16750ff5738f1f6de549",
+      "priority": 60,
+      "published_at": "2026-11-27T18:00:56Z",
+      "region": "world",
+      "source": "RPP Noticias",
+      "summary": "El agujero de la capa de ozono se registra nuevamente entre los más grandes en casi 50 años, según observaciones atmosféricas y datos del satélite Copernicus Sentinel-5P reportados por la ESA.",
+      "title": "Preocupación mundial: el agujero de la capa de ozono vuelve a ser uno de los más grandes en casi 50 años",
+      "url": "https://rpp.pe/ciencia/espacio/agujero-de-la-capa-de-ozono-vuelve-a-ser-uno-de-los-mas-grandes-en-casi-50-anos-noticia-1720144",
+      "why_it_matters": "Monitorear la capa de ozono es crucial para entender la salud atmosférica global y los riesgos de radiación ultravioleta a nivel mundial."
+    },
+    {
+      "category": "economy",
+      "id": "fdb71f9ab5b4986906d6",
+      "priority": 60,
+      "published_at": "2026-11-27T16:18:26Z",
+      "region": "world",
+      "source": "BBC Mundo",
+      "summary": "Estafadores operaron esquemas de fianzas fraudulentas para engañar y robar a miles de migrantes detenidos en Estados Unidos.",
+      "title": "Los estafadores que engañaron a miles de migrantes detenidos en EE.UU. con servicios de fianzas fraudulentos",
+      "url": "https://www.bbc.com/mundo/articles/c6gm3jxzy3dro?at_medium=RSS&at_campaign=rss",
+      "why_it_matters": "Muestra la vulnerabilidad de las poblaciones migrantes frente a delitos financieros y estafas."
+    },
+    {
+      "category": "politics",
+      "id": "f1988c645d607ef4a94f",
+      "priority": 60,
+      "published_at": "2026-11-27T14:51:33Z",
+      "region": "world",
+      "source": "BBC Mundo",
+      "summary": "El presidente de Ucrania critica la amistad entre Trump y Putin.",
+      "title": "Zelenski critica la \"extraña\" amistad entre Trump y Putin en entrevista con la BBC",
+      "url": "https://www.bbc.com/mundo/articles/cqvg2vv9mzmwo?at_medium=RSS&at_campaign=rss",
+      "why_it_matters": "La relación entre líderes mundiales afecta la política global."
     },
     {
       "category": "politics",
@@ -2545,6 +2821,66 @@
       "why_it_matters": ""
     },
     {
+      "category": "other",
+      "id": "c1834fff4777dbc1606e",
+      "priority": 50,
+      "published_at": "2026-11-27T16:50:17Z",
+      "region": "peru",
+      "source": "RPP Noticias",
+      "summary": "Mano Menezes anunci3 la lista de convocados de la Selecci3n Peruana para el amistoso ante Panam3 en Cusco.",
+      "title": "Con solo dos 'extranjeros': Mano Menezes dio su lista de convocados para amistoso ante Panamá en Cusco",
+      "url": "https://rpp.pe/futbol/seleccion-peruana/seleccion-peruana-mano-menezes-dio-lista-de-convocados-para-amistoso-internacional-contra-panama-por-fecha-fifa-diciembre-2026-noticia-1720131",
+      "why_it_matters": "Informa sobre los preparativos y la convocatoria oficial del equipo nacional para su pr3ximo partido de local."
+    },
+    {
+      "category": "economy",
+      "id": "9c5305898ac96c17e501",
+      "priority": 50,
+      "published_at": "2026-11-27T15:33:33Z",
+      "region": "world",
+      "source": "RPP Noticias",
+      "summary": "La tasa de desempleo en Chile trepó al 10 %, su nivel m%e1s alto desde 2021, afectando al Gobierno y reflejando una contracci%f3n trimestral del PIB.",
+      "title": "La tasa de desempleo en Chile llega al 10 % por primera vez en cinco años",
+      "url": "https://rpp.pe/mundo/actualidad/la-tasa-de-desempleo-en-chile-llega-al-10-por-primera-vez-en-cinco-anos-noticia-1720119",
+      "why_it_matters": "Permite monitorear el contexto macroecon%f3mico regional en Sudam%e9rica."
+    },
+    {
+      "category": "politics",
+      "id": "f94750bf3d32c410d4f1",
+      "priority": 50,
+      "published_at": "2026-11-27T14:56:54Z",
+      "region": "world",
+      "source": "BBC Mundo",
+      "summary": "El asesinato de una mujer en Murcia colocó la violencia machista en el centro del debate electoral en España.",
+      "title": "Cómo el asesinato de una mujer hizo que la violencia machista entrara en el debate electoral en España",
+      "url": "https://www.bbc.com/mundo/articles/cxdd13p8nr3eo?at_medium=RSS&at_campaign=rss",
+      "why_it_matters": "Muestra cómo los temas sociales impactan las agendas políticas y electorales."
+    },
+    {
+      "category": "environment",
+      "id": "04ed282943bcffd7069d",
+      "priority": 50,
+      "published_at": "2026-11-27T13:16:28Z",
+      "region": "world",
+      "source": "Al Jazeera",
+      "summary": "La ONU advierte sobre el aumento de la hambruna impulsada por conflictos globales y el fenomeno de El Nino.",
+      "title": "Famine expect to rise due to global conflict, El Nino, warns UN",
+      "url": "https://www.aljazeera.com/news/2026/11/27/famine-expect-to-rise-due-to-global-conflict-el-nino-warns-un?traffic_source=rss",
+      "why_it_matters": "Afecta la seguridad alimentaria global y resalta los impactos climaticos y sociales."
+    },
+    {
+      "category": "environment",
+      "id": "6f99a53d4ca70a151d10",
+      "priority": 50,
+      "published_at": "2026-11-27T09:00:45Z",
+      "region": "peru",
+      "source": "RPP Noticias",
+      "summary": "Senamhi publica el pronóstico del clima, temperatura, radiación UV y probabilidad de lluvia para Lima y otras ciudades del Perú.",
+      "title": "SENAMHI: Pronóstico del clima hoy viernes 27 de noviembre 2026",
+      "url": "https://rpp.pe/peru/actualidad/senamhi-pronostico-del-clima-hoy-viernes-27-de-noviembre-2026-noticia-1720074",
+      "why_it_matters": "Permite a los ciudadanos planificar sus actividades diarias y tomar precauciones ante las condiciones climáticas."
+    },
+    {
       "category": "economy",
       "id": "747bd29bc3902685e18e",
       "priority": 50,
@@ -3275,6 +3611,150 @@
       "title": "Quiénes son los 7 fundadores de Anthropic que están a punto de convertirse en multimillonarios",
       "url": "https://www.bbc.com/mundo/articles/cm98x39221yro?at_medium=RSS&at_campaign=rss",
       "why_it_matters": "Destaca el crecimiento financiero y el impacto global de la industria de la inteligencia artificial."
+    },
+    {
+      "category": "politics",
+      "id": "8d21f2c36972386b4abb",
+      "priority": 40,
+      "published_at": "2026-11-27T19:38:56Z",
+      "region": "world",
+      "source": "BBC Mundo",
+      "summary": "Costa Rica impidió la entrada a Francesca Albanese, relatora especial de la ONU sobre los territorios palestinos, quien recibiría un doctorado.",
+      "title": "\"Ni EE.UU. llegó tan lejos\": por qué Costa Rica le impidió la entrada al país a Francesca Albanese, relatora especial de la ONU sobre los territorios palestinos",
+      "url": "https://www.bbc.com/mundo/articles/cmpqrv8e8n32o?at_medium=RSS&at_campaign=rss",
+      "why_it_matters": "Releva tensiones diplomáticas y restricciones de ingreso a figuras internacionales de la ONU."
+    },
+    {
+      "category": "other",
+      "id": "6b9fab128f56791a6498",
+      "priority": 40,
+      "published_at": "2026-11-27T18:54:42Z",
+      "region": "world",
+      "source": "RPP Noticias",
+      "summary": "Palmeiras y Estudiantes de La Plata se enfrentan en Montevideo para definir al campeón de la Copa Libertadores 2026.",
+      "title": "Palmeiras vs Estudiantes EN VIVO: partidazo en Montevideo por la gran final de la Copa Libertadores 2026",
+      "url": "https://rpp.pe/futbol/copa-libertadores/palmeiras-vs-estudiantes-en-vivo-en-directo-via-espn-que-canal-transmite-online-gratis-final-copa-libertadores-2026-partidos-de-hoy-noticia-1720129",
+      "why_it_matters": "Atrae el interés de los aficionados al fútbol sudamericano en general y de la región."
+    },
+    {
+      "category": "environment",
+      "id": "fcefb75f77149fa9c9ab",
+      "priority": 40,
+      "published_at": "2026-11-27T18:40:31Z",
+      "region": "world",
+      "source": "RPP Noticias",
+      "summary": "Nace en Japón un pingüino saltarrocas norteño mediante inseminación artificial, una especie en grave peligro de extinción.",
+      "title": "Nace en Japón ejemplar de pingüino saltarrocas norteño concebido por inseminación artificial [FOTOS]",
+      "url": "https://rpp.pe/mundo/asia/japon-nace-ejemplar-de-pinguino-saltarrocas-norteno-concebido-por-inseminacion-artificial-fotos-noticia-1720157",
+      "why_it_matters": "Representa un avance en la conservación de especies amenazadas a nivel global."
+    },
+    {
+      "category": "politics",
+      "id": "856e14f5933490ee8c55",
+      "priority": 40,
+      "published_at": "2026-11-27T17:58:36Z",
+      "region": "world",
+      "source": "Al Jazeera",
+      "summary": "México presenta una queja contra EE. UU. por una línea de denuncia de la DEA.",
+      "title": "Mexico files complaint with US over DEA tip line on alleged drug dealers",
+      "url": "https://www.aljazeera.com/news/2026/11/27/mexico-files-complaint-with-us-over-tip-line-on-alleged-drug-traffickers?traffic_source=rss",
+      "why_it_matters": "Las tensiones entre países afectan las relaciones bilaterales."
+    },
+    {
+      "category": "services",
+      "id": "bd6c8b729af06398b1ce",
+      "priority": 40,
+      "published_at": "2026-11-27T17:20:26Z",
+      "region": "peru",
+      "source": "RPP Noticias",
+      "summary": "Milton Ramírez presentó sus propuestas para las elecciones del Decanato del Colegio Médico del Perú.",
+      "title": "Las propuestas de Milton Ramírez con miras a las elecciones del Decanato del Colegio Médico",
+      "url": "https://rpp.pe/videos/ampliacion-de-noticias/las-propuestas-de-milton-ramirez-con-miras-a-las-elecciones-del-decanato-del-colegio-medico-noticia-1720133",
+      "why_it_matters": "Relevante para el sector salud y los profesionales médicos interesados en la gestión del gremio."
+    },
+    {
+      "category": "other",
+      "id": "86da94e6ede2cd6ea453",
+      "priority": 40,
+      "published_at": "2026-11-27T15:50:53Z",
+      "region": "peru",
+      "source": "RPP Noticias",
+      "summary": "El peruano Remigio Huamán Quispe ganó la medalla de oro en el Tronador 130K de Patagonia Bariloche by UTMB.",
+      "title": "Peruano Remigio Huamán Quispe ganó la medalla de oro en el Tronador 130K de Patagonia Bariloche by UTMB",
+      "url": "https://rpp.pe/multideportes/mas-deportes/peruano-remigio-huaman-quispe-gano-medalla-de-oro-en-el-tronador-130k-2026-patagonia-bariloche-by-utmb-noticia-1720122",
+      "why_it_matters": "Destaca el logro deportivo internacional de un atleta peruano en una competencia en Argentina."
+    },
+    {
+      "category": "security",
+      "id": "c6b6aadfed9748c2e36e",
+      "priority": 40,
+      "published_at": "2026-11-27T13:32:55Z",
+      "region": "world",
+      "source": "Al Jazeera",
+      "summary": "Choques entre la policia de Georgia y aficionados de futbol turcos dejaron 16 detenidos y tres empleados heridos.",
+      "title": "Why did Georgian police clash with Turkish football fans over Palestine?",
+      "url": "https://www.aljazeera.com/sports/2026/11/27/why-did-georgian-police-clash-with-turkish-football-fans-over-palestine?traffic_source=rss",
+      "why_it_matters": "Muestra tensiones internacionales que se trasladan a eventos deportivos."
+    },
+    {
+      "category": "politics",
+      "id": "51467a3d29247fe45f29",
+      "priority": 40,
+      "published_at": "2026-11-27T13:14:52Z",
+      "region": "world",
+      "source": "Al Jazeera",
+      "summary": "Familias palestinas denuncian que sus seres queridos siguen detenidos en prisiones israelíes a pesar de haber cumplido sus condenas.",
+      "title": "Sentence served, still detained: Palestinian families waiting for reunions",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/sentence-served-still-detained-palestinian-families-waiting-for-reunions?traffic_source=rss",
+      "why_it_matters": "Plantea preocupaciones continuas sobre los derechos de los detenidos y los procesos legales en el conflicto."
+    },
+    {
+      "category": "other",
+      "id": "42cf48dfcc48f5668efb",
+      "priority": 40,
+      "published_at": "2026-11-27T12:40:03Z",
+      "region": "world",
+      "source": "BBC Mundo",
+      "summary": "Un hombre de 74 años con alzhéimer sobrevivió durante 11 días en la selva amazónica consumiendo frutas y agua de manantial.",
+      "title": "\"Comiendo frutas y bebiendo agua de manantiales\": el hombre de 74 años con alzhéimer que sobrevivió 11 días perdido en el Amazonas",
+      "url": "https://www.bbc.com/mundo/articles/ckp809pd5ve9o?at_medium=RSS&at_campaign=rss",
+      "why_it_matters": "Es un caso inusual de supervivencia en condiciones extremas."
+    },
+    {
+      "category": "security",
+      "id": "8fff77523821527271ca",
+      "priority": 40,
+      "published_at": "2026-11-27T12:18:35Z",
+      "region": "world",
+      "source": "BBC Mundo",
+      "summary": "Campesinos en Colombia enfrentan amenazas para abandonar terrenos que el gobierno les devolvió hace seis meses.",
+      "title": "Los campesinos en Colombia que no dejan de recibir amenazas por un terreno que les devolvió el gobierno hace 6 meses",
+      "url": "https://www.bbc.com/mundo/articles/cqevrxnk1p8po?at_medium=RSS&at_campaign=rss",
+      "why_it_matters": "Evidencia los persistentes conflictos por la tierra y la falta de protección efectiva para las comunidades rurales en la región."
+    },
+    {
+      "category": "services",
+      "id": "345fd3b63a9cc1081be9",
+      "priority": 40,
+      "published_at": "2026-11-27T10:45:22Z",
+      "region": "world",
+      "source": "BBC Mundo",
+      "summary": "Consejos sobre los cuatro movimientos que debes evitar para mantener una columna vertebral saludable.",
+      "title": "4 movimientos que debes evitar para tener una columna saludable",
+      "url": "https://www.bbc.com/mundo/articles/cqevr0l23e1vo?at_medium=RSS&at_campaign=rss",
+      "why_it_matters": "Es útil para la prevención de lesiones y el cuidado de la salud física cotidiana."
+    },
+    {
+      "category": "alert",
+      "id": "b20003538397e93e4edf",
+      "priority": 40,
+      "published_at": "2026-11-27T10:09:45Z",
+      "region": "world",
+      "source": "RPP Noticias",
+      "summary": "Reporte de sismología sobre los últimos movimientos telúricos registrados en Chile durante el 27 de noviembre por el CSN.",
+      "title": "Temblor en Chile hoy 27 de noviembre: Epicentro del sismo según CSN",
+      "url": "https://rpp.pe/mundo/chile/temblor-en-chile-hoy-27-de-noviembre-epicentro-del-sismo-segun-csn-live-3731",
+      "why_it_matters": "Informa sobre la actividad sísmica en un país vecino, de interés general para la región latinoamericana."
     },
     {
       "category": "other",
@@ -4514,6 +4994,102 @@
     },
     {
       "category": "other",
+      "id": "2d4f4387b6bb12f83186",
+      "priority": 30,
+      "published_at": "2026-11-27T18:27:18Z",
+      "region": "world",
+      "source": "RPP Noticias",
+      "summary": "El papa León XIV denunció la precariedad, la pobreza y la soledad invisibles en el centro de Roma durante una visita parroquial.",
+      "title": "León XIV denuncia la precariedad, la pobreza y la soledad \"invisibles\" del centro de Roma",
+      "url": "https://rpp.pe/mundo/actualidad/leon-xiv-denuncia-la-precariedad-la-pobreza-y-la-soledad-invisibles-del-centro-de-roma-noticia-1720155",
+      "why_it_matters": "Destaca la postura de la Iglesia frente a problemas sociales contemporáneos en áreas urbanas."
+    },
+    {
+      "category": "other",
+      "id": "7e1e0a9b2b87007555fe",
+      "priority": 30,
+      "published_at": "2026-11-27T17:44:50Z",
+      "region": "world",
+      "source": "Al Jazeera",
+      "summary": "Rescatistas españoles atienden a migrantes en las Islas Canarias.",
+      "title": "Spanish rescuers treat migrants as hundreds arrive in Canary Islands",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/spanish-rescuers-treat-migrants-as-hundreds-arrive-in-canary-islands?traffic_source=rss",
+      "why_it_matters": "La llegada de migrantes afecta la situación humanitaria en la región."
+    },
+    {
+      "category": "economy",
+      "id": "f7f2076f94108d84713e",
+      "priority": 30,
+      "published_at": "2026-11-27T17:35:50Z",
+      "region": "peru",
+      "source": "RPP Noticias",
+      "summary": "El Banco Central de Reserva lanzó una moneda conmemorativa de plata por los 300 años del Convento de Santa Rosa de Ocopa en Junín.",
+      "title": "Convento de Santa Rosa de Ocopa, en Junín, cumple 300 años: BCR lanza moneda conmemorativa",
+      "url": "https://rpp.pe/economia/economia/convento-de-santa-rosa-de-ocopa-en-junin-cumple-300-anos-bcr-lanza-moneda-conmemorativa-noticia-1720154",
+      "why_it_matters": "Resalta un evento cultural e histórico nacional con emisión numismática limitada."
+    },
+    {
+      "category": "other",
+      "id": "d72742cb28c8c44235c3",
+      "priority": 30,
+      "published_at": "2026-11-27T17:19:50Z",
+      "region": "world",
+      "source": "RPP Noticias",
+      "summary": "El director Denis Villeneuve opin3 sobre el coincidente estreno de Dune 3 y Avengers: Doomsday.",
+      "title": "\"Acepté mi destino\": director de Dune 3 espera \"sobrevivir\" al estreno simultáneo con Avengers: Doomsday",
+      "url": "https://rpp.pe/cine/internacional/dune-3-denis-villeneuve-espera-sobrevivir-al-estreno-simultaneo-con-avengers-doomsday-noticia-1720132",
+      "why_it_matters": "Ofrece una perspectiva sobre la industria cinematogr3fica global y los grandes lanzamientos en cartelera."
+    },
+    {
+      "category": "security",
+      "id": "a5b309ed9cba36a9a60c",
+      "priority": 30,
+      "published_at": "2026-11-27T13:39:17Z",
+      "region": "world",
+      "source": "BBC Mundo",
+      "summary": "Una joven se reencontró con el hombre que le salvó la vida durante un ataque con cuchillo en un tren.",
+      "title": "\"No estaría aquí si no fuera por usted\": el conmovedor encuentro de una joven con el hombre que la salvó de un ataque con cuchillo en un tren",
+      "url": "https://www.bbc.com/mundo/articles/cv5y1pxjpj9lo?at_medium=RSS&at_campaign=rss",
+      "why_it_matters": "Destaca historias de rescate y valentía ciudadana ante la violencia."
+    },
+    {
+      "category": "politics",
+      "id": "e3c05a956e59d2d64703",
+      "priority": 30,
+      "published_at": "2026-11-27T13:28:55Z",
+      "region": "world",
+      "source": "Al Jazeera",
+      "summary": "Eisenkot evalua un posible acuerdo de compartir el poder con Netanyahu a pesar de criticas sobre sus promesas previas.",
+      "title": "Eisenkot navigates tricky waters as he tests power-sharing with Netanyahu",
+      "url": "https://www.aljazeera.com/news/2026/11/27/eisenkot-navigates-tricky-waters-as-he-tests-power-sharing-with-netanyahu?traffic_source=rss",
+      "why_it_matters": "Refleja la dinamica politica interna en Israel y posibles cambios de gobierno."
+    },
+    {
+      "category": "economy",
+      "id": "bf82d2dd9d201167074f",
+      "priority": 30,
+      "published_at": "2026-11-27T10:59:39Z",
+      "region": "world",
+      "source": "RPP Noticias",
+      "summary": "Se detalla la cotización de compra y venta del dólar blue en Argentina para este viernes 27 de noviembre de 2026.",
+      "title": "Argentina: dólar blue hoy a cuánto cotiza este viernes 27 de noviembre",
+      "url": "https://rpp.pe/mundo/argentina/argentina-dolar-blue-hoy-a-cuanto-cotiza-este-viernes-27-de-noviembre-noticia-1720084",
+      "why_it_matters": "Es útil para seguir el contexto económico de la región sudamericana, aunque de impacto directo limitado para Perú."
+    },
+    {
+      "category": "economy",
+      "id": "0834dfa4be1d3e40c0fa",
+      "priority": 30,
+      "published_at": "2026-11-27T04:53:27Z",
+      "region": "world",
+      "source": "BBC Mundo",
+      "summary": "Un análisis de la economía en España previa a las elecciones destaca crecimiento del PIB y empleo frente a salarios bajos y pobreza infantil.",
+      "title": "Elecciones en España: 4 datos que explican cómo está la economía del país tras 8 años de gobierno de Pedro Sánchez",
+      "url": "https://www.bbc.com/mundo/articles/c3rrgd44kqk2o?at_medium=RSS&at_campaign=rss",
+      "why_it_matters": "Muestra los contrastes macroeconómicos y sociales en un país europeo de relevancia internacional."
+    },
+    {
+      "category": "other",
       "id": "c0c0c649b444be6a17cd",
       "priority": 30,
       "published_at": "2026-11-26T19:30:04Z",
@@ -5246,6 +5822,18 @@
     },
     {
       "category": "other",
+      "id": "f745a6246a697772be29",
+      "priority": 25,
+      "published_at": "2026-11-27T11:38:10Z",
+      "region": "world",
+      "source": "BBC Mundo",
+      "summary": "Una científica mexicana investiga el origen de los murciélagos y los factores que explican su inmunidad ante los virus que transmiten.",
+      "title": "La científica mexicana que ayudó a descubrir el origen de los murciélagos y por qué son inmunes a los virus que transmiten",
+      "url": "https://www.bbc.com/mundo/articles/cm62y8017lxpo?at_medium=RSS&at_campaign=rss",
+      "why_it_matters": "Aporta conocimiento científico sobre la biología de los murciélagos y su relación con patógenos letales."
+    },
+    {
+      "category": "other",
       "id": "adffe63fc194324d9673",
       "priority": 25,
       "published_at": "2026-11-26T17:33:08Z",
@@ -5267,6 +5855,42 @@
       "title": "Migrants caravan in Mexico walks towards US border",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/migrants-caravan-in-mexico-walks-towards-us-border?traffic_source=rss",
       "why_it_matters": "Ilumina la dinámica migratoria en el continente americano, aunque de impacto limitado para el lector peruano."
+    },
+    {
+      "category": "other",
+      "id": "89be2c93fcf443ca7e12",
+      "priority": 20,
+      "published_at": "2026-11-27T15:09:38Z",
+      "region": "world",
+      "source": "RPP Noticias",
+      "summary": "Previa del partido de LaLiga EA Sports entre Real Madrid y Alavés, detallando horarios y sedes.",
+      "title": "LaLiga EA Sports: Real Madrid quiere el liderato del torneo frente a Alavés",
+      "url": "https://rpp.pe/futbol/ligas-internacionales/laliga-ea-sports-real-madrid-quiere-el-liderato-del-torneo-frente-a-alaves-noticia-1720117",
+      "why_it_matters": "Es de interés para los aficionados al fútbol internacional, aunque de impacto menor para la agenda nacional."
+    },
+    {
+      "category": "politics",
+      "id": "41bbb9a545736773a84e",
+      "priority": 20,
+      "published_at": "2026-11-27T14:17:25Z",
+      "region": "world",
+      "source": "Al Jazeera",
+      "summary": "Israel celebra la decisión de Costa Rica de prohibir la entrada a la experta de la ONU Francesca Albanese.",
+      "title": "Why is Israel celebrating Costa Rica’s ban on Francesca Albanese?",
+      "url": "https://www.aljazeera.com/news/2026/11/27/why-is-israel-celebrating-costa-ricas-ban-on-francesca-albanese?traffic_source=rss",
+      "why_it_matters": "Destaca tensiones diplomáticas y decisiones políticas internacionales relacionadas con el conflicto en Gaza."
+    },
+    {
+      "category": "other",
+      "id": "ffc9f2bfc6a3d7aa9205",
+      "priority": 20,
+      "published_at": "2026-11-27T13:06:54Z",
+      "region": "world",
+      "source": "Al Jazeera",
+      "summary": "Australia fue eliminada con un puntaje bajo de 108 carreras mientras Jamie Overton logró las mejores cifras de su carrera.",
+      "title": "England’s Overton takes 5-12 as Australia bowled out for record low in T20",
+      "url": "https://www.aljazeera.com/sports/2026/11/27/englands-overton-takes-5-12-as-australia-bowled-out-for-record-low-in-t20?traffic_source=rss",
+      "why_it_matters": "Representa un resultado notable en el cricket internacional."
     },
     {
       "category": "other",
@@ -5738,6 +6362,30 @@
     },
     {
       "category": "other",
+      "id": "0b371a0fd6e8b970a3ac",
+      "priority": 10,
+      "published_at": "2026-11-27T15:04:48Z",
+      "region": "world",
+      "source": "Al Jazeera",
+      "summary": "El Manchester United activó la opción de extender el contrato de Bruno Fernandes hasta 2028.",
+      "title": "Manchester United trigger Bruno Fernandes contract extension to 2028",
+      "url": "https://www.aljazeera.com/sports/2026/11/27/manchester-united-trigger-bruno-fernandes-contract-extension-to-2028?traffic_source=rss",
+      "why_it_matters": "Es relevante para los seguidores del fútbol internacional y la Premier League."
+    },
+    {
+      "category": "other",
+      "id": "3eb472bcde47612c6063",
+      "priority": 10,
+      "published_at": "2026-11-27T14:47:40Z",
+      "region": "world",
+      "source": "Al Jazeera",
+      "summary": "El entrenador Enzo Maresca afirmó que Erling Haaland está feliz en el Manchester City a pesar de los rumores de transferencia.",
+      "title": "Erling Haaland ‘happy’ at Man City despite transfer talk, says Maresca",
+      "url": "https://www.aljazeera.com/sports/2026/11/27/haaland-happy-at-manchester-city-despite-outburst-that-led-to-transfer-talk?traffic_source=rss",
+      "why_it_matters": "Informa sobre el estado actual de uno de los delanteros más destacados del fútbol mundial."
+    },
+    {
+      "category": "other",
       "id": "27636f25f842e93fd0d3",
       "priority": 10,
       "published_at": "2026-11-26T15:27:48Z",
@@ -5893,7 +6541,7 @@
       "why_it_matters": "Ofrece una perspectiva humana sobre condiciones médicas poco habladas y la salud mental."
     }
   ],
-  "generated_at": "2026-11-26T19:56:13.076318Z",
+  "generated_at": "2026-11-27T19:44:52.096016Z",
   "schema_version": 1,
   "source_failures": []
 }
